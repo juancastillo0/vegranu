@@ -7,6 +7,7 @@ description: Learn more about this project.
 - Nutella
 - Jam
 - Yogurt
+- Date Syrup
 
 ## Savory
 - Hummus
