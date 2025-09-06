@@ -4,16 +4,24 @@
   - Rice
   - Wheat
 - Nuts
+  - Peanut
   - Almond
   - Cashews
   - Walnut
 - Seeds
-  - dw
+  - Sunflower
+  - Pumpkin
+  - Sesame
 
+## Ingredients
+
+- Flax
+- Nut/Seed butter
+- 
 
 ## Variant
 
-- Banana Chocolate
-- Orange Ginger
-- Tropical (mago, uchuva)
-- Berries (blueberry, strawberry powder)
+- Choco-Banana: Banana Chocolate
+- Orange Spice: Orange, Fresh Ginger, Pumpkin Spice
+- Tropical: Dried mango, uchuva, coconut
+- Floral: Berries (blueberry, strawberry powder)

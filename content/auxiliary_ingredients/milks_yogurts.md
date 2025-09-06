@@ -1,37 +1,35 @@
-# Milk nut/seed/grain beberage
+# Milk nut/seed/grain beverage
 
 ## Tips
 
 - Oats/Rice, 3 cups
 - Water, 4-6 cups
+- Toasted nut/seed butter 2 tbsp
 - Nuts and seed (1 cup)
-  - Peanut
-  - Hazelnut
-  - Almond
-  - Sunflower
-  - Cashews
-- Sweetener (1/2 cup)
+  - Peanut/Cashews/Hazelnut/Almond
+  - Sunflower/Pumpkin
+  - Chia/Flax
+- Sweetener
   - Banana (1 cup, can be baked or seared)
-  - Dates
-  - Plums
-  - Raisins
+  - Dates/Plums/Raisins (1/2 cup)
 - Flavouring and Spices
   - Cocoa
   - Cinnamon
   - Ginger
   - Pumpkin Spice
-  - Vanilla/Cocunut/Cinnamon extract
+  - Vanilla/Coconut/Cinnamon extract
 
 - Examples
- - Cocoa/Banana/Hazelnut/Peanut/Cashews
- - Almond/Pumpkin Spice
- - Plum/Raisins/Ginger/Sunflower
+ - Choco-Banana: Cocoa/Banana/Hazelnut/Peanut
+ - Pumpkin: Pumpkin/Almond/Pumpkin Spice
+ - Gut Health: Plums/Raisins/Ginger/Chia
 
 ## Tips
 
-- Sunflower seed are a cost effective way to introduce some fat and variery in texture and nutrition.
-- You can find some beautifull glass bottles ofr fridge storage.
-- You can use a multi-functional pot which then can be used for making yogurt 
+- Sunflower seed are a cost effective way to introduce some fat and variety in texture and nutrition
+- Chia and Flax are great for a thicker texture and  they contain a high omega-3 and fiber content
+- You can find some beautiful glass bottles for fridge storage
+- A multi-functional pot which then can be used for making yogurt 
 
 ## Storage
 
@@ -44,7 +42,7 @@
 - With a strainer, remove the water
 - Add the ingredients along with the water to a blender
 - Boil for 20 minutes. Mix to distribute the heat and keep the bottom from burning. May use a big pot with more water so you don't need to attachment  
-- Add to a blender with more water until you find the propper consistency. If you plan on making yogurt, you may set aside some of the liquid without adding more water to keep that smooth gesture  
+- Add to a blender with more water until you find the proper consistency. If you plan on making yogurt or ice-cream, you may set aside some of the liquid without adding more water to keep that smooth gesture  
 - Let it cool and store
 
 

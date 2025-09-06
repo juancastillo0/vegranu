@@ -1,10 +1,33 @@
-- tea
+## Ingredients 
 
-- glacing
+### Base
+- Garbanzo/Chickpea flour
+- Whole-Wheat flour
+- Oat/Rice Flour
+- Gluten
+- Lemon juice and zest
+- Dates and Plums 
+- Banana/Apple
+- Nut/Seed butter
+- Baking Soda/Powder
+
+### Inner
+- Nuts and Seeds
+- Fresh Blueberries
+- Dried fruits (blueberries)
+- Shredded Carrot
+
+### Spices and Extracts
+- Pumpkin Spice (Cinnamon, Ginger, Nutmeg, Cloves, Allspice/Sweet Pepper)
+- Fresh Ginger
+- Coconut/Vanilla/Cinnamon Extract
 
 ## Tips
 
-- Add Tea, 
+- Add Tea
+- Glazing
+
+## Styles
 
 - Cocoa, Banana
 - Ginger, Orange

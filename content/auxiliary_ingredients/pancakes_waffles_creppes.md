@@ -1,4 +1,0 @@
-- Gluten
-- Oat
-- Garbanzo/Chickpeas
-- 

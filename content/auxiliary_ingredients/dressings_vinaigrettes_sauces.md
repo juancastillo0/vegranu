@@ -1,3 +1,3 @@
 - Pesto
 - Garbanzo - Cheese
-- Dates/Soy/Balsamic Vinager
+- Dates/Soy/Balsamic Vinegar

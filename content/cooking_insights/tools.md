@@ -1,0 +1,4 @@
+- Multi-functional Pot
+- Microwave Oven
+- Food Processor
+- Ovens (Convection and Air Fryer)

@@ -1,0 +1,4 @@
+- Garbanzo or Chickpea flour
+- Flax "Egg"
+- Aquafaba or Garbanzo bean "Water" for 
+- Nutritional Yeast

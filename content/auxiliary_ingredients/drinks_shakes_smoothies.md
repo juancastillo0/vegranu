@@ -1,0 +1,13 @@
+- Tea
+  - Black
+  - Mint-Green
+  - Chamomile
+- Coffee
+- Flavored Water
+  - Yam
+  - Fresh Fruit
+  - Cucumber
+  - Lemon
+  - Ginger
+  - Basil/Peppermint/Rosemary
+  - Freeze Cubes
