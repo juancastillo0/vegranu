@@ -27,7 +27,7 @@
 ## Tips
 
 - Sunflower seed are a cost effective way to introduce some fat and variety in texture and nutrition
-- Chia and Flax are great for a thicker texture and  they contain a high omega-3 and fiber content
+- Chia and Flax are great for a thicker texture and  they contain a high omega-3 and fiber content. You can also use corn meal or equivalent to increase the thickness
 - You can find some beautiful glass bottles for fridge storage
 - A multi-functional pot which then can be used for making yogurt 
 
@@ -45,7 +45,6 @@
 - Add to a blender with more water until you find the proper consistency. If you plan on making yogurt or ice-cream, you may set aside some of the liquid without adding more water to keep that smooth gesture  
 - Let it cool and store
 
-
 ## Soy Milk
 
 - Soy 2 cups
@@ -56,8 +55,8 @@
 
 # Yogurt
 
-- Milk with derised thickness
+- Milk with desired thickness
 - Yogurt starter culture
   - Starter (https://co.iherb.com/pr/belle-bella-non-dairy-yogurt-starter-4-packets-5-g-each/63824)
-  - Probiotic supplement 
-  - Previous or bought yogurt with live cultures
+  - Bought or Previously made yogurt with live cultures
+  - Probiotic supplement

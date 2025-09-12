@@ -6,15 +6,14 @@
 
 ## Ingredients
 
-- 
 
 ### Base
-- Grains: Quinua/Oats/Rice/Wheat
+- Grains Whole or Flour: Quinua/Oats/Rice/Wheat
 - Legume: Lentils/Chickpeas/Peas/Beans/Soy
 - Mushrooms
 - Nut/Seed Butter
-- Nuts/Seeds
-- Flax Meal
+- Chopped Nuts/Seeds
+- Flax Meal or Wheat Flour as binder
 
 #### Vegetables
 - Onion

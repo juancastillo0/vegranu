@@ -1,0 +1,12 @@
+- Leaves
+  - Spinach, Kale, Arugula, 
+- 
+- Chunks (Pasta, Tofu/Tempeh, Mushrooms, Seitan)
+- Vegetables
+- Vinaigrette
+- Strong Flavour (Nutritional Yeast, Dates, Mint, Kimchi)
+- Apple/Pear/Peach
+- Crunch
+ - Toasted Legumes (Beans, Lentil, Chickpeas)
+ - Nuts and Seeds
+ - Toasted Bread/Grains

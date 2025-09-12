@@ -1,0 +1,3 @@
+- https://cookingforpeanuts.com/vegan-meal-plans
+- https://www.thevegangym.com/meal-prep-resources
+- https://www.vegansociety.com/go-vegan/how-go-vegan/meal-planning

@@ -1,0 +1,69 @@
+
+## Threats
+    - Cardiovascular
+    - Cancer
+    - Metabolic/Diabetes
+    - Neuro-degenerative
+    - Falls/Orthopedic injuries
+    - Emotional Health
+
+## Inputs/Tests
+    - Family Health History
+    - Sleep
+        - Duration
+        - Quality
+        - Latency
+        - Efficiency
+        - Disturbances
+        - Timing/Consistency
+        - Stress
+    - Dexa Scan
+        - Height/Weight
+        - Waist Circumference
+        - Visceral Adipose Tissue (VAT)
+        - Body Fat
+        - Muscle Mass
+        - Bone Density
+    - Exercise
+        - VO2 max
+        - Lactate curve
+        - Grip strength
+        - Squat duration
+        - Farmers Carry duration
+    - Nutrition
+        - Calories
+        - Lipids (Apo-B, Apo-a)
+        - Micronutrients: Vitamins & Minerals
+        - Fiber
+        - Variety
+        - Glucose
+        - Protein
+        - Anti-oxidants & Phytonutrients
+
+## Leavers/Actions
+    - Exercise
+        - Cardio Endurance (Zone 2)
+        - Cardio High intensity (Zone 5/VO2 max)
+        - Strength
+        - Stability (Efficiency/Flexibility/Balance)
+    - Sleep
+        - Hot Water/Air
+        - Schedule
+        - Light
+        - Noise
+        - Mattress/Pillow
+        - Temperature
+        - Alcohol/Caffeine
+        - Exercise/Activity
+        - Meditation
+        - Last Meal
+    - Nutrition
+        - Reduce Calories
+        - Reduce ApoB (Saturated Fat, Cholesterol, Fiber)
+        - Protein
+        - Supplements
+        - Lipid/Glucose Medication
+        - High Fiber, Micronutrients & Antioxidants per Calorie
+        - Unsaturated over Saturated fats
+        - Potassium over Sodium
+        - Magnesium & Calcium over Phosphorus & Sulfur

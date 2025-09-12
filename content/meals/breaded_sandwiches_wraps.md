@@ -2,7 +2,7 @@
 
 # Wraps and Tacos
 
-- Inner "Protein"
+- Inner "Protein" Chunks
 - Sauce
 - Crunch
 - Vegetables

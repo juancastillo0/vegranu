@@ -1,0 +1,7 @@
+- Grains
+- Legume/Mushrooms
+- Vegetables
+- Nuts/Seeds
+- Texture (Dry/Moist/Risotto)
+- Sauces
+- Herbes (Basil)

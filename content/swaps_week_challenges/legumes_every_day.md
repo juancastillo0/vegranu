@@ -1,6 +1,6 @@
 # Eat Legumes Every Day
 
-Legumes are an excellent starting point since they are a direct alternative for the products with the most harm while being one of the healthiest foods for you, your microbiome and the planet. They are also very versatile, you may use them as flour for savoury or sweet preparations, snacks, or as a main ingredient on meals. They are cheap, shelf-stable and have excellent nutritional, and health properties with evidence supported by controlled and epidemiological studies. 
+Legumes are an excellent starting point since they are a direct alternative for the products with the most harm while being one of the healthiest foods for you, your microbiome and the planet. They are also very versatile, you may use them as flour for savoury or sweet preparations, snacks, or as a main ingredient on meals. They are cheap, shelf-stable and have excellent nutritional and health properties with evidence supported by controlled and epidemiological studies. 
 
 ## Garbanzo is a great example
 
