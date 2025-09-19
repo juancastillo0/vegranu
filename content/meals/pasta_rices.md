@@ -4,4 +4,4 @@
 - Nuts/Seeds
 - Texture (Dry/Moist/Risotto)
 - Sauces
-- Herbes (Basil)
+- Herbs (Basil)

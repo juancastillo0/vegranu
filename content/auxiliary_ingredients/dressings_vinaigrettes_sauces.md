@@ -52,6 +52,14 @@
 - Cilantro
 - Lemon Juice & Zest
 
+## Chimichurri
+
+- Parsley
+- Garlic
+- Red wine vinegar
+- Fat
+- Oregano, cilantro or other green leaves
+
 ## Bell Pepper/Tomato Jam
 
 - Bell Pepper
@@ -59,3 +67,5 @@
 - Chia
 - Lemon Juice & Zest
 - Liquid (Water, Aquafaba, Vegetable Broth)
+
+## Dijon Mustard

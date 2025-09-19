@@ -1,0 +1,6 @@
+- Salty
+- Sweet
+- Acid
+- Umami
+- Texture (Crunchy, fluffy, creamy)
+- Toasting or high temperature reactions (Caramelization and Maillard reactions)

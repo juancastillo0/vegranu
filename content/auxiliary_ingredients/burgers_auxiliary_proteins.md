@@ -34,7 +34,7 @@
 - Paprika
 - Cayenne Pepper
 - Cumin
-- Fine Herbes (parsley, chives, tarragon, and chervil)
+- Fines Herbes (parsley, chives, tarragon, and chervil)
 - Rosemary
 
 ### Variant

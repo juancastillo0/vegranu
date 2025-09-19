@@ -37,6 +37,6 @@ The starter provides the active yeast to kickstart the fermentation process. It 
 
 
 ## Variants
-- Fine Herbes, Garlic, Dried Tomato
+- Fines Herbes, Garlic, Dried Tomato
 - Banana Chocolate
 - Cinnamon Roll
