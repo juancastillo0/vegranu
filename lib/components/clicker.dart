@@ -21,7 +21,7 @@ class ClickerState extends State<Clicker> {
       text('Click mew! ($count)'),
     ]);
   }
-  
+
   @css
   static List<StyleRule> get styles => [
         css('.clicker').styles(

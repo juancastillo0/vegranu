@@ -79,7 +79,8 @@ void main() {
           SidebarGroup(title: 'Content', links: [
             SidebarLink(text: "About", href: '/about'),
             SidebarLink(text: "Auxiliary Ingredients", href: '/ingredients'),
-            SidebarLink(text: "Cooking Insights & Tools", href: '/cooking-insights'),
+            SidebarLink(
+                text: "Cooking Insights & Tools", href: '/cooking-insights'),
             SidebarLink(text: "Health Habits", href: '/health-habits'),
             SidebarLink(text: "Meal Plans", href: '/meal-plans'),
             SidebarLink(text: "Meals", href: '/meals'),
