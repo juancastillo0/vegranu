@@ -5,6 +5,8 @@
 
 // Server-specific jaspr import.
 import 'package:jaspr/server.dart';
+import 'package:jaspr_content/components/header.dart';
+import 'package:jaspr_content/components/sidebar.dart';
 
 import 'package:jaspr_content/jaspr_content.dart';
 import 'package:jaspr_content/components/code_block.dart';
@@ -59,12 +61,12 @@ void main() {
       DocsLayout(
         header: Header(
           title: 'My Docs',
-          logo: '/images/logo.svg',
+          logo: '/images/logo.png',
           items: [
             // Enables switching between light and dark mode.
             ThemeToggle(),
             // Shows github stats.
-            GithubButton(repo: 'schultek/jaspr'),
+            GitHubButton(repo: 'juancastillo0/vegranu'),
           ],
         ),
         sidebar: Sidebar(groups: [
@@ -76,7 +78,14 @@ void main() {
           ),
           SidebarGroup(title: 'Content', links: [
             SidebarLink(text: "About", href: '/about'),
-            SidebarLink(text: "Soups", href: '/soups'),
+            SidebarLink(text: "Auxiliary Ingredients", href: '/ingredients'),
+            SidebarLink(text: "Cooking Insights & Tools", href: '/cooking-insights'),
+            SidebarLink(text: "Health Habits", href: '/health-habits'),
+            SidebarLink(text: "Meal Plans", href: '/meal-plans'),
+            SidebarLink(text: "Meals", href: '/meals'),
+            SidebarLink(text: "Principles", href: '/principles'),
+            SidebarLink(text: "Swaps & Tips", href: '/swaps-challenges'),
+            SidebarLink(text: "Questions & Answers", href: '/questions'),
           ]),
         ]),
       ),
@@ -84,7 +93,8 @@ void main() {
     theme: ContentTheme(
       // Customizes the default theme colors.
       primary: ThemeColor(ThemeColors.blue.$500, dark: ThemeColors.blue.$300),
-      background: ThemeColor(ThemeColors.slate.$50, dark: ThemeColors.zinc.$950),
+      background:
+          ThemeColor(ThemeColors.slate.$50, dark: ThemeColors.zinc.$950),
       colors: [
         ContentColors.quoteBorders.apply(ThemeColors.blue.$400),
       ],
@@ -108,4 +118,3 @@ enum FoodType {
   lunch,
   dinner,
 }
-

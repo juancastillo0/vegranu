@@ -7,8 +7,13 @@
   - Bell Pepper
   - Cucumber
   - Zucchini
+  - Radish
   - Turnips
   - Beetroot
+  - Cabbage
+  - Peas
+  - Broccoli
+  - Cauliflower
 - Grains
   - Couscous
   - Wheat (croutons or groats: Wheat berries and bulgur)
@@ -47,9 +52,9 @@
 ## Mexican rice/corn, black beans, red onion, bell pepper, cilantro, parsley, lemon, avocado, cashew-nutritional yeast "cheese" or yogurt. As bowl or wrap
 ## Mediterranean couscous/quinoa, chickpeas,  cucumber, cherry and sun dried tomatoes, arugula, dill, lemon-mustard dressing
 ## Italian basil/oregano, pasta, tomato, cucumber, olives, chickpeas-cashew cheese or avocado-pesto, balsamic vinegar, bread-hummus or toasted chickpeas
-## Middle eastern Falafel-Tahini-Hummus, lemon, quinoa/bread, onion,
+## Middle eastern Falafel-Tahini-Hummus, lemon, quinoa/bread, onion, red cabbage, cucumber, tomato, parsley, mint
 ## Toasted Lentils, rice/quinoa
 ## Korean kimchi, sweet potato, sesame seeds, garlic-tahini-lemon-gochugaru/paprika tofu/seitan
-## Japanese Seitan soy sauce-ginger-tahini
+## Japanese Seitan soy sauce-ginger-tahini, rice, broccoli, carrot, toasted peanuts
 ## Mushrooms, garlic, soy sauce, balsamic vinegar, date syrup, onion, bell pepper, parsley, rice
-## Pear, almond cheese, balsamic vinegar, date syrup, glazed tofu, arugula, wheat croutons/groats
+## Apple/Pear/Peach, almond cheese, balsamic vinegar, date syrup, glazed tofu, arugula, kale, wheat croutons/groats

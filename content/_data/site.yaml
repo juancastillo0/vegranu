@@ -5,8 +5,6 @@ favicon: favicon.ico
 # Social media links
 social:
   - name: Github
-    url: https://github.com/schultek
-  - name: X/Twitter
-    url: https://twitter.com/schultek_dev
+    url: https://github.com/juancastillo0
   - name: Bluesky
-    url: https://bsky.app/profile/schultek.dev
+    url: https://bsky.app/profile/juancastillo0.bsky.social

@@ -1,4 +1,4 @@
-# alimenta_content
+# Vegranu
 
 A documentation site built with Jaspr
 

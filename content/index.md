@@ -3,14 +3,14 @@ title: Welcome to Your New Docs Site!
 description: A placeholder page for your new documentation site.
 ---
 
-This is the starting point for your brand new documentation site, powered by the awesome `jaspr_content` package! Jaspr Content makes it easy to create beautiful and functional documentation. You can learn more about its features by visiting the [official documentation]({{links.docs}}).
+This is the starting point for your brand new documentation site, powered by the awesome `jaspr_content` package! Jaspr Content makes it easy to create beautiful and functional documentation. You can learn more about its features by visiting the official documentation.
 
 ## Getting Started
 
 Here are a few things you can do to begin:
 
 *   Explore the features of `jaspr_content` inside `lib/main.dart`.
-*   Read the [Quick Start Guide]({{links.quickstart}}) to understand how to set up your your content-driven site.
+*   Read the Quick Start Guide to understand how to set up your your content-driven site.
 *   Start adding your own content pages in the `content/` directory.
 
 ## Showcase
@@ -25,7 +25,7 @@ Here are a few things you can do to begin:
 
 ### Inline Elements
 
-Use `inline code` for brief mentions of code, **bold text** for emphasis, or *italic text* for highlighting. You can also create [links to external sites]({{links.website}}).
+Use `inline code` for brief mentions of code, **bold text** for emphasis, or *italic text* for highlighting. You can also create links to external sites.
 
 ### Blockquotes
 
@@ -57,9 +57,3 @@ Displaying images is straightforward:
 ![Jasper Photo](https://jaspr.site/images/jasper_resized/17.webp)
 
 You can even **zoom-in** by clicking on the image.
-
-## More to Discover!
-
-This is just a placeholder to get things started. 
-
-Feel free to explore the [Documentation]({{links.docs}}) to understand the underlying architecture and how you can customize your site further.

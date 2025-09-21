@@ -5,17 +5,17 @@
 // Generated with jaspr_builder
 
 import 'package:jaspr/jaspr.dart';
-import 'package:alimenta_content/components/clicker.dart' as prefix0;
 import 'package:jaspr_content/components/_internal/code_block_copy_button.dart'
-    as prefix1;
+    as prefix0;
 import 'package:jaspr_content/components/_internal/zoomable_image.dart'
-    as prefix2;
-import 'package:jaspr_content/components/callout.dart' as prefix3;
-import 'package:jaspr_content/components/code_block.dart' as prefix4;
-import 'package:jaspr_content/components/github_button.dart' as prefix5;
-import 'package:jaspr_content/components/image.dart' as prefix6;
-import 'package:jaspr_content/components/sidebar_toggle_button.dart' as prefix7;
-import 'package:jaspr_content/components/theme_toggle.dart' as prefix8;
+    as prefix1;
+import 'package:jaspr_content/components/callout.dart' as prefix2;
+import 'package:jaspr_content/components/code_block.dart' as prefix3;
+import 'package:jaspr_content/components/github_button.dart' as prefix4;
+import 'package:jaspr_content/components/image.dart' as prefix5;
+import 'package:jaspr_content/components/sidebar_toggle_button.dart' as prefix6;
+import 'package:jaspr_content/components/theme_toggle.dart' as prefix7;
+import 'package:vegranu/components/clicker.dart' as prefix8;
 
 /// Default [JasprOptions] for use with your jaspr project.
 ///
@@ -35,49 +35,48 @@ import 'package:jaspr_content/components/theme_toggle.dart' as prefix8;
 /// ```
 JasprOptions get defaultJasprOptions => JasprOptions(
   clients: {
-    prefix0.Clicker: ClientTarget<prefix0.Clicker>('components/clicker'),
-
-    prefix1.CodeBlockCopyButton: ClientTarget<prefix1.CodeBlockCopyButton>(
+    prefix0.CodeBlockCopyButton: ClientTarget<prefix0.CodeBlockCopyButton>(
       'jaspr_content:components/_internal/code_block_copy_button',
     ),
 
-    prefix2.ZoomableImage: ClientTarget<prefix2.ZoomableImage>(
+    prefix1.ZoomableImage: ClientTarget<prefix1.ZoomableImage>(
       'jaspr_content:components/_internal/zoomable_image',
-      params: _prefix2ZoomableImage,
+      params: _prefix1ZoomableImage,
     ),
 
-    prefix5.GithubButton: ClientTarget<prefix5.GithubButton>(
+    prefix4.GitHubButton: ClientTarget<prefix4.GitHubButton>(
       'jaspr_content:components/github_button',
-      params: _prefix5GithubButton,
+      params: _prefix4GitHubButton,
     ),
 
-    prefix7.SidebarToggleButton: ClientTarget<prefix7.SidebarToggleButton>(
+    prefix6.SidebarToggleButton: ClientTarget<prefix6.SidebarToggleButton>(
       'jaspr_content:components/sidebar_toggle_button',
     ),
 
-    prefix8.ThemeToggle: ClientTarget<prefix8.ThemeToggle>(
+    prefix7.ThemeToggle: ClientTarget<prefix7.ThemeToggle>(
       'jaspr_content:components/theme_toggle',
     ),
+
+    prefix8.Clicker: ClientTarget<prefix8.Clicker>('components/clicker'),
   },
   styles: () => [
-    ...prefix0.ClickerState.styles,
+    ...prefix1.ZoomableImage.styles,
+    ...prefix2.Callout.styles,
+    ...prefix3.CodeBlock.styles,
 
-    ...prefix2.ZoomableImage.styles,
-    ...prefix3.Callout.styles,
-    ...prefix4.CodeBlock.styles,
+    ...prefix4.GitHubButton.styles,
+    ...prefix5.Image.styles,
 
-    ...prefix5.GithubButtonState.styles,
-    ...prefix6.Image.styles,
-
-    ...prefix8.ThemeToggleState.styles,
+    ...prefix7.ThemeToggleState.styles,
+    ...prefix8.ClickerState.styles,
   ],
 );
 
-Map<String, dynamic> _prefix2ZoomableImage(prefix2.ZoomableImage c) => {
+Map<String, dynamic> _prefix1ZoomableImage(prefix1.ZoomableImage c) => {
   'src': c.src,
   'alt': c.alt,
   'caption': c.caption,
 };
-Map<String, dynamic> _prefix5GithubButton(prefix5.GithubButton c) => {
+Map<String, dynamic> _prefix4GitHubButton(prefix4.GitHubButton c) => {
   'repo': c.repo,
 };
