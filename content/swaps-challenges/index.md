@@ -3,6 +3,6 @@ title: Swaps & Challenges
 description: Food swaps tips and challenges for going vegan.
 ---
 
-- [cheese_and_dairy](./swaps-challenges/cheese_and_dairy)     
+- [cheese-and-dairy](./swaps-challenges/cheese-and-dairy)     
 - [eggs](./swaps-challenges/eggs)              
-- [legumes_every_day](./swaps-challenges/legumes_every_day)
+- [legumes-every-day](./swaps-challenges/legumes-every-day)
