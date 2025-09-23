@@ -9,6 +9,8 @@ dependencies:
   jaspr: ^0.21.2
   jaspr_content: ^0.4.1
   jaspr_router: ^0.7.0
+  # Process strings 'meal-plans' -> 'Meal Plans', used for route titles
+  recase: ^4.1.0
 
 dev_dependencies:
   build_runner: ^2.4.15

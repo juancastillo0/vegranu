@@ -15,6 +15,9 @@ import 'package:jaspr_content/components/github_button.dart';
 import 'package:jaspr_content/components/callout.dart';
 import 'package:jaspr_content/components/image.dart';
 import 'package:jaspr_content/theme.dart';
+import 'package:jaspr_router/jaspr_router.dart';
+import 'package:recase/recase.dart';
+import 'package:vegranu/routes_map.dart';
 
 import 'components/clicker.dart';
 
@@ -60,7 +63,7 @@ void main() {
       // Out-of-the-box layout for documentation sites.
       DocsLayout(
         header: Header(
-          title: 'My Docs',
+          title: 'Vegranu',
           logo: '/images/logo.png',
           items: [
             // Enables switching between light and dark mode.
@@ -69,26 +72,7 @@ void main() {
             GitHubButton(repo: 'juancastillo0/vegranu'),
           ],
         ),
-        sidebar: Sidebar(groups: [
-          // Adds navigation links to the sidebar.
-          SidebarGroup(
-            links: [
-              SidebarLink(text: "Overview", href: '/'),
-            ],
-          ),
-          SidebarGroup(title: 'Content', links: [
-            SidebarLink(text: "About", href: '/about'),
-            SidebarLink(text: "Auxiliary Ingredients", href: '/ingredients'),
-            SidebarLink(
-                text: "Cooking Insights & Tools", href: '/cooking-insights'),
-            SidebarLink(text: "Health Habits", href: '/health-habits'),
-            SidebarLink(text: "Meal Plans", href: '/meal-plans'),
-            SidebarLink(text: "Meals", href: '/meals'),
-            SidebarLink(text: "Principles", href: '/principles'),
-            SidebarLink(text: "Swaps & Tips", href: '/swaps-challenges'),
-            SidebarLink(text: "Questions & Answers", href: '/questions'),
-          ]),
-        ]),
+        sidebar: AppSidebar(),
       ),
     ],
     theme: ContentTheme(
@@ -101,6 +85,65 @@ void main() {
       ],
     ),
   ));
+}
+
+class AppSidebar extends StatelessComponent {
+  @override
+  Component build(BuildContext context) {
+    final fullPath = Router.of(context).matchList.uri;
+    print(fullPath.pathSegments);
+    final firstRoutePath = fullPath.pathSegments.firstOrNull;
+    final nested = routesMap[firstRoutePath];
+    const routeTitles = {
+      'about': 'About',
+      'ingredients': 'Auxiliary Ingredients',
+      'cooking-insights': 'Cooking Insights & Tools',
+      'habits': 'Health Habits',
+      'meals': 'Meals',
+      'meal-plans': 'Meal Plans',
+      'principles': 'Principles',
+      'swaps-challenges': 'Swaps & Tips',
+      'questions': 'Questions & Answers',
+    };
+    List<SidebarLink> nestedLinks = [];
+    if (nested != null) {
+      // && fullPath.pathSegments.length == 2
+      nestedLinks = nested
+          .map(
+            (e) => SidebarLink(
+              text: ReCase(e).titleCase,
+              href: '/$firstRoutePath/$e',
+            ),
+          )
+          .toList();
+      // return Sidebar(groups: [
+      //   SidebarGroup(
+      //     links: [
+      //       SidebarLink(text: 'Overview', href: '/'),
+      //     ],
+      //   ),
+      //   SidebarGroup(
+      //     title: routeTitles[firstRoutePath] ?? 'Content',
+      //     links: nestedLinks,
+      //   ),
+      // ]);
+    }
+
+    return Sidebar(groups: [
+      // Adds navigation links to the sidebar.
+      SidebarGroup(links: [SidebarLink(text: 'Overview', href: '/')]),
+      if (nestedLinks.isNotEmpty)
+        SidebarGroup(
+          title: routeTitles[firstRoutePath] ?? 'Group',
+          links: nestedLinks,
+        ),
+      SidebarGroup(title: 'Content', links: [
+        ...routeTitles.entries.map(
+          (e) => SidebarLink(text: e.value, href: '/${e.key}'),
+        ),
+      ]),
+    ]);
+  }
 }
 
 enum Taste {
