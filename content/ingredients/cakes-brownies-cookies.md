@@ -1,3 +1,5 @@
+![](/images/pages-icons/cakes-brownies-cookies.png)
+
 ## Ingredients 
 
 ### Base

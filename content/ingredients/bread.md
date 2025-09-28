@@ -1,8 +1,10 @@
-# Sourdough Starter
+![](/images/pages-icons/bread.png)
+
+## Sourdough Starter
 
 The starter provides the active yeast to kickstart the fermentation process. It usually takes 7 days of "feeding" for the sourdough starter to be ready for properly fermenting and leavening the dough.
 
-## Steps
+### Steps
 
 - Take a glass container and a spatula or spoon to stir the mix
 - Add a 1 1/2 tablespoon of whole wheat or rye flour with 1 tablespoon of water to the container and mix. Leave the container covered for 1 day
@@ -12,9 +14,9 @@ The starter provides the active yeast to kickstart the fermentation process. It 
 - Keep feeding the starter or store it in the fridge if you don't plan on baking in the coming days.
   - You should feed the starter for 1-2 days before baking to activate it
 
-# Whole Wheat Bread
+## Whole Wheat Bread
 
-## Steps
+### Steps
 
 - The night before baking, add 50g of starter to 100g of both, water and flour
 - In the morning, add the fed starter to 100g of water and 2 tablespoons of sugar, stir and wait 5 minutes for the mix to activate
@@ -29,14 +31,14 @@ The starter provides the active yeast to kickstart the fermentation process. It 
 - Store in the fridge or freezer. Outside it may last 3-7 days, depending on the sourness, dryness and other ingredients.
 
 
-## Folding
-## Night Fridge Hydration
-## Night Fridge Fermentation
+### Folding
+### Night Fridge Hydration
+### Night Fridge Fermentation
 
-# Sourdough Bread
+## Sourdough Bread
 
 
-## Variants
+### Variants
 - Fines Herbes, Garlic, Dried Tomato
 - Banana Chocolate
 - Cinnamon Roll

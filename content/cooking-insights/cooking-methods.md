@@ -1,13 +1,13 @@
-# Wet Cooking Methods
+## Wet Cooking Methods
 
-## Boiling, Brasing, Stewing, Simmering, Blanching
-## Steaming
-## Pressure Cooking
-## Microwaving
+### Boiling, Brasing, Stewing, Simmering, Blanching
+### Steaming
+### Pressure Cooking
+### Microwaving
 
-# Dry Cooking Methods
+## Dry Cooking Methods
 
-## Sauteing and Stir Frying
-## Grilling
-## Baking, Roasting, Broiling
-## Air Frying
+### Sauteing and Stir Frying
+### Grilling
+### Baking, Roasting, Broiling
+### Air Frying

@@ -1,11 +1,11 @@
-# Options
+## Options
 
 - Burger
 - Sausage
 - Tofu-like Slabs or Sticks
+- Falafel or Nuggets
 
 ## Ingredients
-
 
 ### Base
 - Grains Whole or Flour: Quinua/Oats/Rice/Wheat

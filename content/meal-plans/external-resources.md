@@ -7,6 +7,7 @@
 - Simon Hill https://www.youtube.com/@TheProofWithSimonHill
 - Nutrition Made Simple https://youtube.com/@NutritionMadeSimple
 - Viva Longevity https://www.youtube.com/@Viva-Longevity
+- Dr. Matthew Nagra https://www.youtube.com/@dr.matthewnagra
 
 ## Cooking Youtube Channels
 - The Whole Food Plant Based Cooking Show https://www.youtube.com/@wholefoodplantbasedcookingshow

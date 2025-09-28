@@ -65,7 +65,7 @@ description: Learn more about this project.
 ### Ingredients
 
 - Fat
-    - Cashew/Peanut/Sunflower Seed
+    - Cashew/Pistachio/Peanut/Sunflower Seed
     - Avocado (Can't be heated)
 - Basil
 - Nutritional Yeast

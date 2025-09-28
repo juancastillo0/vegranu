@@ -1,4 +1,4 @@
-# Principles
+## Principles
 
 - Salty
 - Sweet
@@ -7,7 +7,7 @@
 - Texture (Crunchy, fluffy, creamy)
 - Toasting or high temperature reactions (Caramelization and Maillard reactions)
 
-# Books & Resources
+## Books & Resources
 
 - Modernist Cuisine: The Art and Science of Cooking (https://modernistcuisine.com/)
   - Modernist Bread (https://modernistcuisine.com/books/modernist-bread/)

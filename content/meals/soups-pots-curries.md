@@ -5,7 +5,7 @@ description: Learn more about this project.
 
 ## Variants
 
-- Broccoli
+- Broccoli/Pea
 - Spinach
 - Carrot/Squash
 - Mushroom
@@ -17,6 +17,7 @@ description: Learn more about this project.
 - Bread
 - Nuts and Seeds
 - Toasted Legumes (Beans, Lentil, Chickpeas)
+- Toasted/Dehydrated Kale and Vegetables
 
 ## Sauces and Pastes
 

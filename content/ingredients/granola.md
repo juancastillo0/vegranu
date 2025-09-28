@@ -1,5 +1,7 @@
 # Granola and Snack Chunks
 
+## General Components
+
 - Grains
   - Oats
   - Quinua
@@ -34,7 +36,7 @@
   - Vanilla/Coconut/Cinnamon extract
   
 
-## Variant
+## Variants
 
 - Choco-Banana: Banana Chocolate
 - Orange Spice: Orange, Fresh Ginger, Pumpkin Spice

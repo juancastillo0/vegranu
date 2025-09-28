@@ -9,6 +9,7 @@
   - Pine nuts
   - Walnuts
   - Cashew
+  - Pistachio
   - Sunflower
   - Almond
   - Tahini/Sesame

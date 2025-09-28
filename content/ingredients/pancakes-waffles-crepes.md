@@ -1,4 +1,4 @@
-# Base
+## Base
 
 - Gluten based Flour or Gluten
   - Gluten allows 
@@ -19,11 +19,11 @@
   - Vanilla/Coconut/Cinnamon extract
 
 
-## Waffles
+### Waffles
 
-## Pancakes
+### Pancakes
 
-## Crepes
+### Crepes
 
 
 

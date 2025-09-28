@@ -1,6 +1,8 @@
+![](/images/pages-icons/milks-yogurts.png)
+
 # Milk nut/seed/grain beverage
 
-## Tips
+## Ingredients
 
 - Oats/Rice, 3 cups
 - Water, 4-6 cups
@@ -19,7 +21,7 @@
   - Pumpkin Spice
   - Vanilla/Coconut/Cinnamon extract
 
-- Examples
+### Examples:
  - Choco-Banana: Cocoa/Banana/Hazelnut/Peanut
  - Pumpkin: Pumpkin/Almond/Pumpkin Spice
  - Gut Health: Plums/Raisins/Ginger/Chia
@@ -36,7 +38,7 @@
 - Up to 3 days in the fridge
 - Can be freezed in silicone bags. Let it thaw and throw it in the blender when you are ready for a refill.
 
-# Recipe
+## Recipe
 
 - Leave the nuts, seeds and grains soaking overnight or for a couple of hours. You may speed up the process by heating up the water
 - With a strainer, remove the water
@@ -45,7 +47,7 @@
 - Add to a blender with more water until you find the proper consistency. If you plan on making yogurt or ice-cream, you may set aside some of the liquid without adding more water to keep that smooth gesture  
 - Let it cool and store
 
-## Soy Milk
+### Soy Milk
 
 - Soy 2 cups
 - Nut Milk strainer bag (https://www.amazon.com/-/en/dp/B07QCRGDKX?th=1)
@@ -53,7 +55,7 @@
 
 ### Tofu
 
-# Yogurt
+## Yogurt
 
 - Milk with desired thickness
 - Yogurt starter culture

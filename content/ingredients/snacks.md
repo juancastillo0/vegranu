@@ -1,6 +1,4 @@
-# Popcorn
-
-## Ingredients
+## Popcorn
 
 ### Cheesy
 
@@ -22,8 +20,8 @@
 
 - Lemon
 
-# Toasted Legumes (Garbanzo/Chickpea/Lentils/Black Beans/Peas)
+## Toasted Legumes (Garbanzo/Chickpea/Lentils/Black Beans/Peas)
 
-# Hummus With Bread
+## Hummus With Bread
 
-# Fruits
+## Fruits
