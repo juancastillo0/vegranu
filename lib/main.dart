@@ -6,7 +6,6 @@
 // Server-specific jaspr import.
 import 'package:jaspr/server.dart';
 import 'package:jaspr_content/components/header.dart';
-import 'package:jaspr_content/components/sidebar.dart';
 
 import 'package:jaspr_content/jaspr_content.dart';
 import 'package:jaspr_content/components/code_block.dart';
@@ -17,6 +16,7 @@ import 'package:jaspr_content/components/image.dart';
 import 'package:jaspr_content/theme.dart';
 import 'package:jaspr_router/jaspr_router.dart';
 import 'package:recase/recase.dart';
+import 'package:vegranu/components/sidebar.dart';
 import 'package:vegranu/routes_map.dart';
 
 import 'components/clicker.dart';
@@ -64,7 +64,7 @@ void main() {
       DocsLayout(
         header: Header(
           title: 'Vegranu',
-          logo: '/images/logo.png',
+          logo: '/images/vegranu-logo-darkbg.png',
           items: [
             // Enables switching between light and dark mode.
             ThemeToggle(),
@@ -105,6 +105,16 @@ class AppSidebar extends StatelessComponent {
       'swaps-challenges': 'Swaps & Tips',
       'questions': 'Questions & Answers',
     };
+
+    const itemsWithIcons = {
+      'auxiliary-ingredients',
+      'bread',
+      'cakes-brownies-cookies',
+      'cooking-insights',
+      'drinks-shakes-smoothies',
+      'ferments-kimchi',
+      'milks-yogurts',
+    };
     List<SidebarLink> nestedLinks = [];
     if (nested != null) {
       // && fullPath.pathSegments.length == 2
@@ -113,6 +123,9 @@ class AppSidebar extends StatelessComponent {
             (e) => SidebarLink(
               text: ReCase(e).titleCase,
               href: '/$firstRoutePath/$e',
+              icon: itemsWithIcons.contains(e)
+                  ? '/images/pages-icons/$e.png'
+                  : null,
             ),
           )
           .toList();
@@ -139,7 +152,13 @@ class AppSidebar extends StatelessComponent {
         ),
       SidebarGroup(title: 'Content', links: [
         ...routeTitles.entries.map(
-          (e) => SidebarLink(text: e.value, href: '/${e.key}'),
+          (e) => SidebarLink(
+            text: e.value,
+            href: '/${e.key}',
+            icon: itemsWithIcons.contains(e.key)
+                ? '/images/pages-icons/${e.key}.png'
+                : null,
+          ),
         ),
       ]),
     ]);
