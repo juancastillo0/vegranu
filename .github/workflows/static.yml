@@ -55,5 +55,5 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy build/jaspr --project-name=YOUR_PROJECT_NAME
+          command: pages deploy build/jaspr --project-name=vegranu
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
