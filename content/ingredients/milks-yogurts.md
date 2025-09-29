@@ -1,4 +1,4 @@
-![](/images/pages-icons/milks-yogurts.png)
+![](/images/page-icons/milks-yogurts.png)
 
 # Milk nut/seed/grain beverage
 

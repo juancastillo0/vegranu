@@ -1,4 +1,4 @@
-![](/images/pages-icons/ferments-kimchi.png)
+![](/images/page-icons/ferments-kimchi.png)
 
 ## Main Ingredients
 - Cabbage

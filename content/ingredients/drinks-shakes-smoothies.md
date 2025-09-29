@@ -1,4 +1,4 @@
-![](/images/pages-icons/drinks-shakes-smoothies.png)
+![](/images/page-icons/drinks-shakes-smoothies.png)
 
 ## Tea
 Acidity may be a problem, you could add a buffer such as plant based milk to reduce or the acidity.

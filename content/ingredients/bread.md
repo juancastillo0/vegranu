@@ -1,4 +1,4 @@
-![](/images/pages-icons/bread.png)
+![](/images/page-icons/bread.png)
 
 ## Sourdough Starter
 

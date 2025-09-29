@@ -124,7 +124,7 @@ class AppSidebar extends StatelessComponent {
               text: ReCase(e).titleCase,
               href: '/$firstRoutePath/$e',
               icon: itemsWithIcons.contains(e)
-                  ? '/images/pages-icons/$e.png'
+                  ? '/images/page-icons/$e.png'
                   : null,
             ),
           )
@@ -156,7 +156,7 @@ class AppSidebar extends StatelessComponent {
             text: e.value,
             href: '/${e.key}',
             icon: itemsWithIcons.contains(e.key)
-                ? '/images/pages-icons/${e.key}.png'
+                ? '/images/page-icons/${e.key}.png'
                 : null,
           ),
         ),

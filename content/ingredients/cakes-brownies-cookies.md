@@ -1,4 +1,4 @@
-![](/images/pages-icons/cakes-brownies-cookies.png)
+![](/images/page-icons/cakes-brownies-cookies.png)
 
 ## Ingredients 
 
