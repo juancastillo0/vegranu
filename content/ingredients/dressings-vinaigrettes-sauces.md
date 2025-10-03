@@ -1,3 +1,13 @@
+---
+title: Dressings, Vinaigrettes & Sauces
+description: Recipes, tips and ideas for making vegan Dressings, Vinaigrettes & Sauces in a practical, healthy and sustainable way.
+keywords: 
+  - Dressings
+  - Vinaigrettes
+  - Sauces
+---
+
+
 ## Pesto
 
 ### Ingredients
@@ -70,3 +80,15 @@
 - Liquid (Water, Aquafaba, Vegetable Broth)
 
 ## Dijon Mustard
+
+
+## Ceasar Dressing
+
+- 1/4 cup tahini
+- 2 tbsp nutritional yeast
+- 3 tbsp lemon juice
+- 1 tbsp tamari or soy sauce
+- 2 tbsp dijon mustard
+- 2 tsp capers
+- 2 tsp maple syrup
+- 1 tsp minced garlic

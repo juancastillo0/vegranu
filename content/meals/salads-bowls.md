@@ -1,3 +1,14 @@
+---
+title: Salads & Bowls
+description: Recipes, tips and ideas for making vegan Salads & Bowls in a practical, healthy and sustainable way.
+keywords: 
+  - Salads
+  - Bowls
+image: /images/photos/savory-meals/meal-03-20240209.jpg
+---
+
+![](/images/photos/savory-meals/meal-01-20240201.jpg)
+
 ## Base Salad Components
 
 - Leaves

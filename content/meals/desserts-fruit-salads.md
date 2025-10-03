@@ -1,18 +1,37 @@
+---
+title: Desserts & Fruit Salads
+description: Recipes, tips and ideas for making vegan Desserts & Fruit Salads in a practical, healthy and sustainable way.
+keywords: 
+  - Desserts
+  - Fruit Salads
+  - Ice Cream
+  - Popsicles
+  - Cheesecakes
+  - Mousse
+  - Puddings
+image: /images/photos/cheesecakes/cheesecake-oven-20241107.jpg
+---
 
-# Cake/Brownie with toppings
+## Cake/Brownie/Crepe/Waffle with toppings
 
-- Cake/Brownie
+![](/images/photos/sweet-snacks/crepe-apple-syrup-01-20240118.jpg)
+
+- Cake/Brownie/Crepe/Waffle
 - Granola
 - Yogurt
 - Roasted Banana
 - Fruits
 
-# Tiramisu
+## Tiramisu
 
-# Apple/Peach Pie
+## Apple/Peach Pie
 
-# Ice Cream and Popsicles
+![](/images/photos/baked-snacks/baked-apple-20240114.jpg)
 
-# Cheesecake
+## Ice Cream and Popsicles
 
-# Mousse
+## Cheesecake
+
+![](/images/photos/cheesecakes/cheesecake-oven-nuts-02-20250318.jpg)
+
+## Mousse and Puddings

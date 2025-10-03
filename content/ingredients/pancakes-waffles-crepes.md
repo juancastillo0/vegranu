@@ -1,3 +1,15 @@
+---
+title: Pancakes, Waffles & Crepes
+description: Recipes, tips and ideas for making vegan Pancakes, Waffles & Crepes in a practical, healthy and sustainable way.
+keywords: 
+  - Pancakes
+  - Waffles
+  - Crepes
+  - Healthy
+  - Vegan
+image: /images/photos/pancakes-waffles-crepes/pancake-waffle-side-20250915.jpg
+---
+
 ## Base
 
 - Gluten based Flour or Gluten
@@ -9,6 +21,8 @@
 - Nut/Seed butter
 - Lemon juice and zest
 - Baking Soda/Powder
+- Buttermilk
+  - Plant based milk and acid (lemon, apple cider vinegar). Works best with high protein milk like soy milk
 - Sweetener
     - Apple Sauce
     - Banana

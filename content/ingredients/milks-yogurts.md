@@ -1,4 +1,13 @@
-![](/images/page-icons/milks-yogurts.png)
+---
+title: Milks & Yogurts
+description: Recipes, tips and ideas for making vegan Milks & Yogurts in a practical, healthy and sustainable way.
+keywords: 
+  - Milks
+  - Yogurts
+  - Beverages
+  - Dairy-Alternatives
+image: /images/page-icons/milks-yogurts.png
+---
 
 # Milk nut/seed/grain beverage
 

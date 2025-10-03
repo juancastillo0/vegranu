@@ -1,3 +1,14 @@
+---
+title: Sweet Meals
+description: Recipes, tips and ideas for making vegan Sweet Meals in a practical, healthy and sustainable way.
+keywords: 
+  - Sweet
+  - Meals
+  - Fruits
+image: /images/photos/sweet-meals/waffle-01-20240111.jpg
+---
+
+
 # Fruit with Accompaniment 
 
 Could be for breakfast, dinner, dessert or as a snack.
@@ -8,10 +19,14 @@ For all of these options wou may add [Spread such as Date Syrup, Nut/Seed butter
 
 - [Granola](../auxiliary_ingredients/granolas.md)
 - [Pancakes, Waffles, Crepes](../auxiliary_ingredients/pancakes_waffles_crepes.md)
+![](/images/photos/sweet-meals/crepe-04-20240304.jpg)
+![](/images/photos/sweet-meals/waffle-02-icecream-top-20240116.jpg)
 - [Cakes, Brownies, Cookies](../auxiliary_ingredients/cakes_brownies_cookies.md)
 - [Bread](../auxiliary_ingredients/bread.md)
 
 ## Overnight or Cooked Grains
+
+![](/images/photos/sweet-meals/oats-fruits-01-20240109.jpg)
 
 ### Ingredients
   - Oats, Rice, Quinoa

@@ -1,4 +1,14 @@
-![](/images/page-icons/ferments-kimchi.png)
+---
+title: Ferments and Kimchi
+description: Recipes, tips and ideas for making vegan Ferments, Kimchi and Pickling in a practical, healthy and sustainable way.
+keywords: 
+  - Ferments 
+  - Kimchi
+  - Pickling
+image: /images/page-icons/ferments-kimchi.png
+---
+
+![](/images/photos/kimchi/jar-20241014.jpg)
 
 ## Main Ingredients
 - Cabbage
@@ -31,3 +41,6 @@
 - Combine the sauce with the main ingredients and add to the fermentation container, leave solid objects submerged
 - Leave to ferment in a dry space, away from the sun and bugs, for 3-5 days depending on the temperature and desired acidity
 - Close the container and refrigerate
+
+
+## Quick-Pickled Red Onions

@@ -1,3 +1,14 @@
+---
+title: Bread & Dough
+description: Recipes, tips and ideas for making vegan Bread & Dough in a practical, healthy and sustainable way.
+keywords: 
+  - Sourdough
+  - Bread
+  - Pizza Dough
+  - Buns
+image: /images/photos/breads/sourdough-open-20240302.jpg
+---
+
 ![](/images/page-icons/bread.png)
 
 ## Sourdough Starter

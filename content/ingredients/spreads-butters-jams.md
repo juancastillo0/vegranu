@@ -1,6 +1,13 @@
 ---
-title: Soups
-description: Learn more about this project.
+title: Spreads, Butters & Jams
+description: Recipes, tips and ideas for making vegan Spreads, Butters & Jams in a practical, healthy and sustainable way.
+keywords: 
+  - Spreads
+  - Butters
+  - Jams
+  - Sweet
+  - Savory
+image: /images/photos/spreads/nutseed-butter-jam-02-20240211.jpg
 ---
 
 # Sweet
@@ -19,7 +26,7 @@ description: Learn more about this project.
 - Blend all the ingredients
 - Add water until you reach your desired texture
 
-## Chocolate Spread: Hazelnut/Cacao/Pumkin Spice
+## Chocolate Spread: Hazelnut/Cacao/Pumpkin Spice
 - Hazelnut
 - Cacao
 - Almond/Peanut/Cashew/Sunflower Seed

@@ -1,3 +1,15 @@
+---
+title: Granola
+description: Recipes, tips and ideas for making vegan Granola in a practical, healthy and sustainable way.
+keywords: 
+  - Granola
+  - Energy Balls
+  - Cookies
+  - Crunch
+  - Cereal
+image: /images/photos/granola/oven-02-20240115.jpg
+---
+
 # Granola and Snack Chunks
 
 ## General Components

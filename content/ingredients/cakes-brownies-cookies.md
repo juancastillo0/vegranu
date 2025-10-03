@@ -1,4 +1,16 @@
-![](/images/page-icons/cakes-brownies-cookies.png)
+---
+title: Cakes, Brownies & Cookies
+description: Recipes, tips and ideas for making vegan Cakes, Brownies & Cookies in a practical, healthy and sustainable way.
+keywords: 
+  - Cakes
+  - Brownies
+  - Cookies
+image: /images/page-icons/cakes-brownies-cookies.png
+---
+
+![](/images/photos/cakes/carrot-cake-nuts-open-20241117.jpeg)
+![](/images/photos/cakes/brownie-storage-20250907.jpg)
+![](/images/photos/cookies/cookies-variants-20240125.jpg)
 
 ## Ingredients 
 

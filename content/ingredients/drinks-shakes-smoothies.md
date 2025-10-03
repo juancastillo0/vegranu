@@ -1,4 +1,13 @@
-![](/images/page-icons/drinks-shakes-smoothies.png)
+---
+title: Drinks, Shakes & Smoothies
+description: Recipes, tips and ideas for making vegan Drinks, Shakes & Smoothies in a practical, healthy and sustainable way.
+keywords: 
+  - Drinks
+  - Shakes
+  - Smoothies
+image: /images/page-icons/drinks-shakes-smoothies.png
+---
+
 
 ## Tea
 Acidity may be a problem, you could add a buffer such as plant based milk to reduce or the acidity.

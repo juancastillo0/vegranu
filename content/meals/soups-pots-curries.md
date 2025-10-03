@@ -1,6 +1,10 @@
 ---
-title: Soups
-description: Learn more about this project.
+title: Soups, Pots & Curries
+description: Recipes, tips and ideas for making vegan Soups, Pots & Curries in a practical, healthy and sustainable way.
+keywords: 
+  - Soups
+  - Pots
+  - Curries
 ---
 
 ## Variants

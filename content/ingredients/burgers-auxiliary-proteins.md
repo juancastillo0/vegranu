@@ -1,3 +1,15 @@
+---
+title: Burgers & Auxiliary Proteins
+description: Recipes, tips and ideas for making vegan Burgers & Auxiliary Proteins in a practical, healthy and sustainable way.
+keywords: 
+  - Burgers
+  - Sausages
+  - Falafels
+  - Patties
+  - Fritters
+image: /images/photos/burgers-auxiliary-proteins/burger-01-20241013.jpg
+---
+
 ## Options
 
 - Burger
