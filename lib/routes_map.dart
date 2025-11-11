@@ -50,9 +50,10 @@ const routesMap = {
   ],
   "swaps-challenges": [
     "legumes-every-day",
-    "cheese-and-dairy",
+    "milk-yogurt-dairy",
     "eggs",
-    "ai-based-swaps"
+    "ai-based-swaps",
+    "cheese"
   ],
   "cooking-insights": ["tools", "taste", "cooking-methods"],
   "questions": [
@@ -62,5 +63,179 @@ const routesMap = {
     "protein-requirements",
     "bloating-and-gases",
     "flours-and-carbs"
+  ],
+};
+const dirPhotos = {
+  "oven-pot": ["lasagna-open-20240210.jpg", "lasagna-side-20240210.jpg"],
+  "pancakes-waffles-crepes": [
+    "pancake-pan-20250915.jpg",
+    "pancake-waffle-side-20250915.jpg",
+    "waffle-top-20250915.jpg",
+    "pancake-pan-done-20250915.jpg",
+    "pancake-pan-closed-20250915.jpg"
+  ],
+  "sweet-snacks": [
+    "meringue-01-20241012.jpeg",
+    "muffin-oven-20241020.jpg",
+    "crepe-apple-syrup-01-20240118.jpg",
+    "meringue-01-process-20241012.jpg",
+    "muffin-oven-done-20241020.jpg"
+  ],
+  "deep-dish-pizza": [
+    "vegetables-top-20241120.jpg",
+    "vegetables-20241120.jpg",
+    "open-01-20241121.jpg",
+    "storage-20241121.jpg",
+    "slice-20241121.jpg",
+    "side-20241120.jpg",
+    "open-02-20241121.jpg",
+    "top-20241120.jpg"
+  ],
+  "cakes": [
+    "brownie-single-20250907.jpg",
+    "carrot-cake-nuts-top-01-20241117.jpg",
+    "brownie-storage-20250907.jpg",
+    "carrot-cake-nuts-side-01-20241117.jpg",
+    "carrot-cake-nuts-top-03-20241117.jpg",
+    "carrot-cake-nuts-top-02-20241117.jpg",
+    "carrot-cake-nuts-side-02-20241117.jpg",
+    "waffle-base-ingredients-20250915.jpg",
+    "carrot-cake-nuts-open-removebg-20241117.png",
+    "carrot-cake-nuts-slices-storage-20241117.jpg",
+    "carrot-cake-top-swirl-20250112.jpg",
+    "waffle-base-spices-20250915.jpg",
+    "carrot-cake-nuts-open-20241117.jpeg",
+    "carrot-cake-02-side-20251005.jpg",
+    "carrot-cake-02-store-01-20251005.jpg",
+    "carrot-cake-02-top-20251005.jpg"
+  ],
+  "breads": [
+    "bread-variants-side-01-20240208.jpg",
+    "bread-variants-side-02-20240208.jpg",
+    "bread-variants-top-20240208.jpg",
+    "burger-bun-01-20241112.jpg",
+    "burger-buns-20241012.jpg",
+    "burger-bun-top-20241112.jpg",
+    "sourdough-cooling-20240302.jpg",
+    "sourdough-feeding-20241004.jpg",
+    "sourdough-open-20240302.jpg",
+    "sourdough-round-01-20250405.jpg",
+    "sourdough-round-02-20250405.jpg"
+  ],
+  "spreads": [
+    "hummus-20251005.jpg",
+    "hummus-beetroot-20250604.jpg",
+    "nutseed-butter-jam-02-20240211.jpg",
+    "nutseed-butter-jam-01-20240211.jpg",
+    "spreads-fridge-20240314.jpg",
+    "tahini-toasted-sesame-20240130.jpg"
+  ],
+  "pasta": [
+    "pasta-meal-02-20240303.jpg",
+    "pasta-meal-01-20240118.jpg",
+    "pasta-pan-20240303.jpg",
+    "pasta-meal-03-20240120.jpg"
+  ],
+  "cookies": [
+    "cookies-variants-20240125.jpg",
+    "cookies-base-20240125.jpg",
+    "cookies-storage-20241012.jpg",
+    "energy-ball-cookie-20241012.jpg",
+    "cookies-variants-oven-20240125.jpg"
+  ],
+  "burgers-auxiliary-proteins": [
+    "burger-01-20241013.jpg",
+    "sausage-rice-cut-20241103.jpg",
+    "falafel-air-fryer-20240202.jpg",
+    "sausage-rice-steamed-20241103.jpg",
+    "falafel-burger-air-fryer-20240218.jpg",
+    "falafel-storage-20240202.jpg",
+    "falafel-processor-01-20251006.jpg",
+    "falafel-processor-02-20251006.jpg",
+    "soy-vegetable-nuggets-20241103.jpg"
+  ],
+  "kimchi": ["jar-20241014.jpg", "filling-20240225.jpg"],
+  "cheesecakes": [
+    "cheesecake-oven-nuts-01-20250318.jpg",
+    "cheesecake-oven-20241107.jpg",
+    "chessecake-slice-20241108.jpg",
+    "cheesecake-open-20241108.jpg",
+    "tiramisu-20240218.jpg",
+    "cheesecake-oven-nuts-02-20250318.jpg"
+  ],
+  "sweet-meals": [
+    "oats-fruits-02-20240113.jpg",
+    "oats-fruits-01-20240109.jpg",
+    "crepe-golden-milk-20240109.jpg",
+    "waffle-01-20240111.jpg",
+    "waffle-03-finished-20240112.jpg",
+    "waffle-03-temp-20240112.jpg",
+    "waffle-04-20240110.jpg",
+    "crepe-01-20240223.jpg",
+    "waffle-02-icecream-top-20240116.jpg",
+    "crepe-02-20240302.jpg",
+    "waffle-06-20240203.jpg",
+    "waffle-07-20240221.jpg",
+    "waffle-crepe-icecream-20240224.jpg",
+    "waffle-08-20240301.jpg",
+    "waffle-05-icecream-eaten-20240120.jpg",
+    "waffle-02-icecream-side-20240116.jpg",
+    "crepe-01-20240131.jpg",
+    "crepe-03-icecream-toast-20240303.jpg",
+    "crepe-04-20240304.jpg",
+    "pancake-01-icecream-20240119.jpg",
+    "waffle-09-20240206.jpg",
+    "granola-cookie-20240129.jpg",
+    "crepe-05-20240305.jpg",
+    "fruit-wrap-20240313.jpg"
+  ],
+  "granola": ["granola.png", "oven-02-20240115.jpg", "oven-01-20240115.jpg"],
+  "pizza-quesadilla": [
+    "quesadilla-top-20240116.jpg",
+    "pizza-cauliflower-20240203.jpg",
+    "quesadilla-side-20240116.jpg",
+    "pizza-broccoli-02-20240114.jpg",
+    "pizza-broccoli-20240114.jpg",
+    "quesadilla-top-sliced-20240116.jpg",
+    "pizza-flat-mushrooms-20241027.jpg",
+    "flat-pizza-ingredients-20240303.jpg",
+    "pizza-flat-varied-slice-20240303.jpg",
+    "pizza-flat-varied-cooking-20240303.jpg",
+    "pizza-cauliflower-slice-20240203.jpg",
+    "flat-pizza-slice-pesto-20240304.jpg",
+    "flat-pizza-uncooked-20240303.jpg"
+  ],
+  "baked-snacks": [
+    "baked-kale-peach-20240227.jpg",
+    "toasted-chickpeas-20240228.jpg",
+    "baked-apple-20240114.jpg",
+    "avocado-hummus-toast-20240303.jpg",
+    "baked-kale-peach-flash-20240227.jpg"
+  ],
+  "savory-meals": [
+    "quesadilla-01-20240118.jpg",
+    "taco-02.jpeg",
+    "tortilla-02-20240127.jpg",
+    "quesadilla-02-20240120.jpg",
+    "kimchi-burgers-toasted-jam-20240301.jpg",
+    "sushi-01.jpg",
+    "meal-02-20240202.jpg",
+    "taco-01.jpg",
+    "tortilla-01-20240124.jpg",
+    "meal-01-20240201.jpg",
+    "meal-03-20240209.jpg",
+    "black-bean-tortilla-pesto-20240129.jpg",
+    "chickpea-tortilla-20240121.jpg",
+    "taco-03.jpg",
+    "breaded-with-vegetables-20240127.jpg",
+    "empanada-20240314.jpg",
+    "empanada-salad-smoothie-20240316.jpg",
+    "meal_09_20251001.jpg",
+    "pesto-mushroom-risotto-20240127.jpg",
+    "pesto-tofu-risotto-20240128.jpg",
+    "rice-wrap-meal-20241012.jpg",
+    "rice-wrap-open-20240930.jpg",
+    "rice-wrap-top-20240930.jpg",
+    "wrap-hummus-20251006.jpg"
   ],
 };

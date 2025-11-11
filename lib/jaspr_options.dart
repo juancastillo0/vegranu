@@ -16,6 +16,7 @@ import 'package:jaspr_content/components/image.dart' as prefix5;
 import 'package:jaspr_content/components/sidebar_toggle_button.dart' as prefix6;
 import 'package:jaspr_content/components/theme_toggle.dart' as prefix7;
 import 'package:vegranu/components/clicker.dart' as prefix8;
+import 'package:vegranu/components/gallery.dart' as prefix9;
 
 /// Default [JasprOptions] for use with your jaspr project.
 ///
@@ -58,6 +59,11 @@ JasprOptions get defaultJasprOptions => JasprOptions(
     ),
 
     prefix8.Clicker: ClientTarget<prefix8.Clicker>('components/clicker'),
+
+    prefix9.Gallery: ClientTarget<prefix9.Gallery>(
+      'components/gallery',
+      params: _prefix9Gallery,
+    ),
   },
   styles: () => [
     ...prefix1.ZoomableImage.styles,
@@ -69,6 +75,7 @@ JasprOptions get defaultJasprOptions => JasprOptions(
 
     ...prefix7.ThemeToggleState.styles,
     ...prefix8.ClickerState.styles,
+    ...prefix9.GalleryState.styles,
   ],
 );
 
@@ -79,4 +86,8 @@ Map<String, dynamic> _prefix1ZoomableImage(prefix1.ZoomableImage c) => {
 };
 Map<String, dynamic> _prefix4GitHubButton(prefix4.GitHubButton c) => {
   'repo': c.repo,
+};
+Map<String, dynamic> _prefix9Gallery(prefix9.Gallery c) => {
+  'directory': c.directory,
+  'omittedPaths': c.omittedPaths,
 };

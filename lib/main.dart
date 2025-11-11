@@ -16,6 +16,7 @@ import 'package:jaspr_content/components/image.dart';
 import 'package:jaspr_content/theme.dart';
 import 'package:jaspr_router/jaspr_router.dart';
 import 'package:recase/recase.dart';
+import 'package:vegranu/components/gallery.dart';
 import 'package:vegranu/components/sidebar.dart';
 import 'package:vegranu/routes_map.dart';
 
@@ -70,6 +71,12 @@ class App extends StatelessComponent {
         CustomComponent(
           pattern: 'Clicker',
           builder: (_, __, ___) => Clicker(),
+        ),
+        CustomComponent(
+          pattern: 'Gallery',
+          builder: (_, attributes, ___) => Gallery(
+            directory: attributes['directory'] ?? '',
+          ),
         ),
         // Adds zooming and caption support to images.
         Image(zoom: true),
