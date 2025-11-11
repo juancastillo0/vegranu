@@ -10,6 +10,8 @@ keywords:
 image: /images/photos/spreads/nutseed-butter-jam-02-20240211.jpg
 ---
 
+<Gallery directory="spreads"/>
+
 # Sweet
 
 ## Date/Plum/Chia Syrup

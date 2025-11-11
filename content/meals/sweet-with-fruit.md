@@ -8,6 +8,7 @@ keywords:
 image: /images/photos/sweet-meals/waffle-01-20240111.jpg
 ---
 
+<Gallery directory="sweet-meals"/>
 
 # Fruit with Accompaniment 
 

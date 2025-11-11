@@ -10,11 +10,11 @@ keywords:
 image: /images/photos/pizza-quesadilla/quesadilla-top-sliced-20240116.jpg
 ---
 
-# Sandwiches and Burgers
+## Sandwiches and Burgers
 
 ![](/images/photos/burgers-auxiliary-proteins/burger-01-20241013.jpg)
 
-# Wraps and Tacos
+## Wraps and Tacos
 
 ![](/images/photos/savory-meals/taco-03.jpg)
 
@@ -23,6 +23,8 @@ image: /images/photos/pizza-quesadilla/quesadilla-top-sliced-20240116.jpg
 - Crunch
 - Vegetables
 
-# Pizza and Quesadillas
+## Pizza and Quesadillas
 
 ![](/images/photos/pizza-quesadilla/pizza-flat-varied-slice-20240303.jpg)
+
+<Gallery directory="pizza-quesadilla"/>

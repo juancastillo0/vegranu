@@ -34,6 +34,10 @@ image: /images/photos/baked-snacks/avocado-hummus-toast-20240303.jpg
 
 ## Toasted Legumes (Garbanzo/Chickpea/Lentils/Black Beans/Peas)
 
+<Gallery directory="baked-snacks"/>
+
 ## Hummus With Bread
 
 ## Fruits
+
+<Gallery directory="sweet-snacks"/>

@@ -32,6 +32,8 @@ image: /images/photos/cheesecakes/cheesecake-oven-20241107.jpg
 
 ## Cheesecake
 
+<Gallery directory="cheesecakes"/>
+
 ![](/images/photos/cheesecakes/cheesecake-oven-nuts-02-20250318.jpg)
 
 ## Mousse and Puddings

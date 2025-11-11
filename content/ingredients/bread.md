@@ -11,6 +11,8 @@ image: /images/photos/breads/sourdough-open-20240302.jpg
 
 ![](/images/page-icons/bread.png)
 
+<Gallery directory="breads"/>
+
 ## Sourdough Starter
 
 The starter provides the active yeast to kickstart the fermentation process. It usually takes 7 days of "feeding" for the sourdough starter to be ready for properly fermenting and leavening the dough.

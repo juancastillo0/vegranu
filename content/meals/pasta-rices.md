@@ -9,6 +9,8 @@ image: /images/photos/pasta/pasta-pan-20240303.jpg
 
 ![](/images/photos/pasta/pasta-meal-01-20240118.jpg)
 
+<Gallery directory="pasta"/>
+
 - Grains
 - Legume/Mushrooms
 - Vegetables

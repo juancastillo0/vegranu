@@ -10,6 +10,8 @@ image: /images/page-icons/ferments-kimchi.png
 
 ![](/images/photos/kimchi/jar-20241014.jpg)
 
+<Gallery directory="kimchi"/>
+
 ## Main Ingredients
 - Cabbage
 - Carrot

@@ -8,6 +8,12 @@ image: /images/photos/oven-pot/lasagna-open-20240210.jpg
 ---
 
 ## Lasagna
+
+<Gallery directory="oven-pot"/>
+
 ## One-Pot Baked Meals
 ## Deep Dish Pizza
+
+<Gallery directory="deep-dish-pizza"/>
+
 ## Bean Cake

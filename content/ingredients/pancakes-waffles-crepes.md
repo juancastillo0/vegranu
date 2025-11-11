@@ -10,6 +10,8 @@ keywords:
 image: /images/photos/pancakes-waffles-crepes/pancake-waffle-side-20250915.jpg
 ---
 
+<Gallery directory="pancakes-waffles-crepes"/>
+
 ## Base
 
 - Gluten based Flour or Gluten

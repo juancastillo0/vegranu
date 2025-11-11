@@ -9,6 +9,9 @@ image: /images/photos/savory-meals/meal-03-20240209.jpg
 
 ![](/images/photos/savory-meals/meal-01-20240201.jpg)
 
+<!-- TODO: separate salads/bowls photo directory -->
+<Gallery directory="savory-meals"/>
+
 ## Base Salad Components
 
 - Leaves

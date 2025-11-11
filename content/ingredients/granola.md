@@ -10,6 +10,8 @@ keywords:
 image: /images/photos/granola/oven-02-20240115.jpg
 ---
 
+<Gallery directory="granola"/>
+
 # Granola and Snack Chunks
 
 ## General Components

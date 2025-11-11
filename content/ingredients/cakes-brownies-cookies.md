@@ -12,6 +12,14 @@ image: /images/page-icons/cakes-brownies-cookies.png
 ![](/images/photos/cakes/brownie-storage-20250907.jpg)
 ![](/images/photos/cookies/cookies-variants-20240125.jpg)
 
+### Cakes
+
+<Gallery directory="cakes"/>
+
+### Cookies
+
+<Gallery directory="cookies"/>
+
 ## Ingredients 
 
 ### Base
