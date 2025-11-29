@@ -27,7 +27,7 @@ The starter provides the active yeast to kickstart the fermentation process. It 
 - Keep feeding the starter or store it in the fridge if you don't plan on baking in the coming days.
   - You should feed the starter for 1-2 days before baking to activate it
 
-## Whole Wheat Bread
+## Whole Wheat Sourdough Bread
 
 ### Steps
 
@@ -44,14 +44,22 @@ The starter provides the active yeast to kickstart the fermentation process. It 
 - Store in the fridge or freezer. Outside it may last 3-7 days, depending on the sourness, dryness and other ingredients.
 
 
-### Folding
-### Night Fridge Hydration
-### Night Fridge Fermentation
-
-## Sourdough Bread
+#### Folding
+#### Night Fridge Hydration
+#### Night Fridge Fermentation
 
 
 ### Variants
+
+#### Boule (ball)
+#### Sandwich Square
+#### Ciabatta
 - Fines Herbes, Garlic, Dried Tomato
-- Banana Chocolate
-- Cinnamon Roll
+
+#### Burger Buns
+#### Pizza Dough
+#### Cinnamon Roll
+#### Sweet Bread
+
+- Banana-Chocolate
+- Carrot/Beetroot and Seeds

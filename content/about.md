@@ -9,7 +9,7 @@ Here are our socials, dynamically generated from the `site.yaml` data:
 
 Nutrition principles:
 
-- High Fiber, Micronutrients & Antioxidants per Calorie
+- High Fiber, Micronutrients & Antioxidants per Calorie (quantity and variety)
 - Unsaturated over Saturated fats
 - Potassium over Sodium
 - Magnesium & Calcium over Phosphorus & Sulfur
