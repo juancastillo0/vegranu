@@ -30,7 +30,7 @@ image: /images/page-icons/milks-yogurts.png
   - Pumpkin Spice
   - Vanilla/Coconut/Cinnamon extract
 
-### Examples:
+### Examples
  - Choco-Banana: Cocoa/Banana/Hazelnut/Peanut
  - Pumpkin: Pumpkin/Almond/Pumpkin Spice
  - Gut Health: Plums/Raisins/Ginger/Chia
@@ -62,12 +62,31 @@ image: /images/page-icons/milks-yogurts.png
 - Nut Milk strainer bag (https://www.amazon.com/-/en/dp/B07QCRGDKX?th=1)
 - Water
 
+#### Steps
+
+- Leave the soy to soak overnight with plenty of water.
+- Strain the soy
+- Blend the strained soy with water
+- Add salt. You may add other ingredients, such as bananas, dates and spices.
+  - Or you can wait until straining to have the unflavoured soy for other preparations such as [burgers or sausages](./burgers-auxiliary-proteins.md) 
+- Cook in a pressure cooker or big pot, stir constantly so it does not stick
+- Add more water and let the mixture cool
+- With a strainer, filter the liquid
+- If you want to separate all the solids, use the nut milk strainer bag with the already strained liquid
+- For a sweet or spiced milk you may add dates, plums, nut/seed butter, cacao, spices or cooked bananas. You can find some [example combinatios here](#examples).
+
+#### Solids
+
+You may toast the strained solids for a high protein soy product. Mix it with spices, vegetables and sauces for [burgers or sausages](./burgers-auxiliary-proteins.md).
+A simple garlic and onion powder, paprika, nutritional yeast and nut or seed butter would work, add flours iif you need an additional binder and shape to you liking or leave as crumbs. 
+You may also make a [hummus spread](./spreads-butters-jams.md#hummus) with the soy instead of chickpeas.
+
 ### Tofu
 
 ## Yogurt
 
-- Milk with desired thickness
+- Milk with desired thickness, add blended and cooked oats, rice or straches (corn, potatoo, cassava) if the base is too liquid, such as with [soy milk](#soy-milk)
 - Yogurt starter culture
   - Starter (https://co.iherb.com/pr/belle-bella-non-dairy-yogurt-starter-4-packets-5-g-each/63824)
-  - Bought or Previously made yogurt with live cultures
+  - Bought or previously made yogurt with live cultures
   - Probiotic supplement
