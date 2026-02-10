@@ -48,7 +48,6 @@ image: /images/photos/granola/oven-02-20240115.jpg
   - Pumpkin Spice
   - Cocoa
   - Vanilla/Coconut/Cinnamon extract
-  
 
 ## Variants
 
