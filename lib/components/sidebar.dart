@@ -1,3 +1,4 @@
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 import 'package:jaspr_content/components/_internal/icon.dart' show CloseIcon;
 import 'package:jaspr_content/theme.dart';
@@ -59,7 +60,8 @@ class Sidebar extends StatelessComponent {
         div([
           for (final group in groups)
             div(classes: 'sidebar-group', [
-              if (group.title case final groupTitle?) h3([text(groupTitle)]),
+              if (group.title case final groupTitle?)
+                h3([Component.text(groupTitle)]),
               ul([
                 for (final item in group.links)
                   li([
@@ -75,7 +77,7 @@ class Sidebar extends StatelessComponent {
                               padding: Spacing.only(right: Unit.pixels(10)),
                             ),
                           ),
-                        text(item.text),
+                        Component.text(item.text),
                       ]),
                     ]),
                   ]),
@@ -128,8 +130,11 @@ class Sidebar extends StatelessComponent {
                   textOverflow: TextOverflow.ellipsis,
                   radius: BorderRadius.circular(.375.rem),
                   display: Display.flex,
-                  transition:
-                      Transition('all', duration: 150, curve: Curve.easeInOut),
+                  transition: Transition(
+                    'all',
+                    duration: Duration(milliseconds: 150),
+                    curve: Curve.easeInOut,
+                  ),
                 ),
                 css('&:hover')
                     .styles(opacity: 1, backgroundColor: Color('#0000000d')),

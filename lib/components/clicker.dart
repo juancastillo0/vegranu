@@ -1,3 +1,4 @@
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 import 'package:jaspr_content/theme.dart';
 
@@ -18,7 +19,7 @@ class ClickerState extends State<Clicker> {
     return button(classes: 'clicker', onClick: () {
       setState(() => count++);
     }, [
-      text('Click mew! ($count)'),
+      Component.text('Click mew! ($count)'),
     ]);
   }
 
