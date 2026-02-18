@@ -11,6 +11,7 @@
 
 - Red Pen Reviews (https://www.redpenreviews.org/reviews/)
 - Nutrition Facts (https://nutritionfacts.org/)
+- Canada Food Guide (https://food-guide.canada.ca/en/tips-for-healthy-eating/)
 
 
 # Vegan Guides

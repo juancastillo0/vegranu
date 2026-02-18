@@ -11,6 +11,10 @@ image: /images/photos/oven-pot/lasagna-open-20240210.jpg
 
 <Gallery directory="oven-pot"/>
 
+- Lasagna Sheets or other pasta
+- Vegetables
+  - Greens: Spinach, Kale, Beetroot Leaves
+
 ## One-Pot Baked Meals
 ## Deep Dish Pizza
 
