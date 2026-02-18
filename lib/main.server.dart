@@ -4,6 +4,7 @@
 // To run code on the client, use the @client annotation.
 
 // Server-specific jaspr import.
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/server.dart';
 import 'package:jaspr_content/components/header.dart';
 
@@ -23,12 +24,12 @@ import 'package:vegranu/routes_map.dart';
 import 'components/clicker.dart';
 
 // This file is generated automatically by Jaspr, do not remove or edit.
-import 'jaspr_options.dart';
+import 'main.server.options.dart';
 
 void main() {
   // Initializes the server environment with the generated default options.
   Jaspr.initializeApp(
-    options: defaultJasprOptions,
+    options: defaultServerOptions,
   );
 
   // Starts the app.
@@ -40,6 +41,7 @@ void main() {
       head: [
         // Links to the compiled `web/main.dart` file.
         script(src: 'main.dart.js'),
+        link(rel: "stylesheet", href: "/stylesheet.css"),
       ],
       // Pre-renders the [App] component inside the <body> tag
       body: App(),

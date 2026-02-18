@@ -103,10 +103,7 @@ image: /images/photos/burgers-auxiliary-proteins/burger-01-20241013.jpg
 - [How to Make Falafel? Falafel Recipe That Will Make You So Happy Every Time! - YouTube](https://www.youtube.com/watch?v=sF7DiC9ECy8&t=635s)
 - [STOP DEEP FRYING YOUR FALAFEL and make my vegan air fryer / baked falafel! Gluten-free, quick soak! - YouTube](https://www.youtube.com/shorts/cXN6agT0h94)
  
-
-
 ## Lentil, Black bean or Mushroom Burgers
-
 
 
 | Quantity    | Ingredient                                          |
@@ -130,4 +127,13 @@ image: /images/photos/burgers-auxiliary-proteins/burger-01-20241013.jpg
 
 ## Soy-Vegetables Sausage
 
+- Soy, Chickpea, or Lentils
+- Roasted Vegetables
+  - BellPepper, carrot, tomato
+- Tomato Paste
+- Soy sauce
+
+### Tips
+
+- You may use the leftover soy obtained when making [soy milk](./milks-yogurts.md#soy-milk)
 

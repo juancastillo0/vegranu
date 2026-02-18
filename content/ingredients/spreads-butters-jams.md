@@ -35,6 +35,8 @@ image: /images/photos/spreads/nutseed-butter-jam-02-20240211.jpg
 - Date/Plum/Chia Syrup
 - Pumpkin Spices (Cinnamon, Ginger, Nutmeg, Cloves, Allspice/Sweet Pepper)
 
+You may also add Legumes such as chickpeas or black beans to make a sweet and nutritious [hummus](#hummus).
+
 ## Fruit Jams
 
 ### Base
@@ -65,9 +67,28 @@ image: /images/photos/spreads/nutseed-butter-jam-02-20240211.jpg
 
 # Savory
 
-- [Yogurt](./milks_yogurts.md)
+- [Yogurt](./milks-yogurts.md)
 
 ## Hummus
+
+### Ingredients
+
+- Chickpea or Garbanzo beans
+  - You may also use Soy, Lentils or other Beans
+- Tahini
+- Lemon zest and juice
+- Garlic
+- Salt, Pepper, Cumin
+- Nutritional Yeast
+
+You may add other ingredients for different sweet and savory flavours.
+
+### Variants
+
+- Beetroot
+- Avocado with Cooked Kale & Spinach
+- Roasted vegetables (Pepper, Tomatoes Carrot) 
+- Cacao with Dates, Hazelnut and Pumpkin Spice 
 
 ## Pesto
 
