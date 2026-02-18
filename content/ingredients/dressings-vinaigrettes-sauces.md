@@ -92,3 +92,61 @@ keywords:
 - 2 tsp capers
 - 2 tsp maple syrup
 - 1 tsp minced garlic
+
+
+## Spice Blends
+
+https://food-guide.canada.ca/en/cooking-skills/7-homemade-seasoning-mixes/
+
+
+### Mediterranean
+
+- Basil
+- Oregano
+- Thyme
+- Garlic Powder
+- Parsley
+
+### Grilling
+
+- Paprika
+- Onion Powder
+- Oregano
+- Rosemary
+- Coriander
+- Black Pepper
+
+### Pumpkin Spice
+
+- Nutmeg
+- Cinnamon
+- Ginger
+- Cloves
+- Allspice
+
+### Italian
+
+### Mexican
+
+- Oregano
+- Chili
+- Paprika
+- Cumin
+- Onion Powder
+
+### Middle-Eastern
+
+- Cumin
+- Turmeric
+- Coriander
+- Paprika
+- Cinnamon
+- Fennel
+
+### Chinese Five-Spice
+
+- Fennel
+- Cloves
+- Cinnamon
+- Star Anise
+- Allspice
