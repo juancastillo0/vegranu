@@ -1,7 +1,4 @@
-import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
-import 'package:jaspr_content/theme.dart';
-import 'package:jaspr_router/jaspr_router.dart';
 import 'package:vegranu/routes_map.dart';
 
 @client
@@ -45,30 +42,24 @@ class GalleryState extends State<Gallery> {
   static List<StyleRule> get styles => [
         css('.gallery', [
           css('&').styles(
+            width: Unit.percent(100),
             padding: Padding.all(0.5.rem),
             margin: Margin.only(top: 1.rem),
-            radius: BorderRadius.circular(0.5.rem),
             // alignItems: AlignItems.start,
             // alignContent: AlignContent.spaceEvenly,
             // display: Display.flex,
             // flexWrap: FlexWrap.wrap,
-            justifyContent: JustifyContent.center,
-
-            overflow: Overflow.only(
-              /* Enables horizontal scrolling when content overflows */
-              x: Overflow.auto,
-              /* Hides the vertical scrollbar */
-              y: Overflow.hidden,
-            ),
+            radius: BorderRadius.circular(0.5.rem),
+            overflow: Overflow.only(x: Overflow.auto, y: Overflow.hidden),
             /* Prevents content from wrapping to the next line */
+            justifyContent: JustifyContent.center,
             whiteSpace: WhiteSpace.noWrap,
-            width: Unit.percent(100),
           ),
           css('img').styles(
-            padding: Padding.all(0.5.rem),
-            radius: BorderRadius.circular(1.rem),
             display: Display.inlineBlock,
-            height: Unit.pixels(300)
+            height: Unit.pixels(300),
+            radius: BorderRadius.circular(1.rem),
+            padding: Padding.all(0.5.rem),
           ),
         ])
       ];
