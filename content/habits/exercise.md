@@ -7,7 +7,6 @@
 ### Cardio
 #### Intensity
 
-
 ## Resources
 
 ### Books 📖:
