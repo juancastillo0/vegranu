@@ -12,12 +12,16 @@ image: /images/photos/burgers-auxiliary-proteins/burger-01-20241013.jpg
 
 <Gallery directory="burgers-auxiliary-proteins"/>
 
+All these recipes are similar in the sense that they use a combination of legumes, grains, vegetables and spices to form the high protein food and then cook it to set the grains or reach the required texture (interior and exterior). All of these can be batch cooked and freezed for a convenient and accessible meal preparation. For these, a food processor is recommended, but you could also be done with a masher or blender with some water. Depending on the texture and batch cooking potential, a convection oven or air frier could work best.
+
 ## Options
 
-- Burger
-- Sausage
+In order of potential "Crunchiness" to softness
+
+- Falafels or Nuggets/Fingers
+- Burgers
 - Tofu-like Slabs or Sticks
-- Falafel or Nuggets
+- Sausages
 
 ## Ingredients
 
@@ -42,8 +46,6 @@ image: /images/photos/burgers-auxiliary-proteins/burger-01-20241013.jpg
 - Dates/Plums Whole or Syrup
 
 ### Spices
-
-- Pepper
 - Onion/Garlic powder
 - Paprika
 - Cayenne Pepper
@@ -123,17 +125,30 @@ image: /images/photos/burgers-auxiliary-proteins/burger-01-20241013.jpg
 | 4 tbsp      | Nut/Seed butter                                     |
 | To Taste    | Salt, fines herbes, coriander seed, pepper, paprika |
 
-
-
 ## Soy-Vegetables Sausage
 
-- Soy, Chickpea, or Lentils
+- Legumes: Soy, Chickpea, Beans or Lentils
 - Roasted Vegetables
-  - BellPepper, carrot, tomato
+  - BellPepper, carrot, tomato, onion, garlic
 - Tomato Paste
 - Soy sauce
+- Spices
+  - 
 
 ### Tips
 
-- You may use the leftover soy obtained when making [soy milk](./milks-yogurts.md#soy-milk)
+- You may use the leftover soy obtained when making [soy milk](./milks-yogurts.md#soy-milk), also known as okara.
+
+
+## Breading and Toasting
+
+Two containers, 
+
+- Liquid for Coating
+  - Corn starch
+- Solids that Toast
+  - Seeds: Sesame seeds
+  - Corn, quinua flakes or wheat's Panko
+  - Chopped toasted bread or croutons
+  - Chopped nuts
 

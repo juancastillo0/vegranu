@@ -12,6 +12,8 @@ image: /images/page-icons/cakes-brownies-cookies.png
 ![](/images/photos/cakes/brownie-storage-20250907.jpg)
 ![](/images/photos/cookies/cookies-variants-20240125.jpg)
 
+All of these recipes are similar in terms of base ingredients, what changes is the water content, cooking method and the few spices/ingredients for the different [styles](#styles), textures and flavours (Carrot cake vs Brownie).
+
 ### Cakes
 
 <Gallery directory="cakes"/>
@@ -26,11 +28,11 @@ image: /images/page-icons/cakes-brownies-cookies.png
 - Garbanzo/Chickpea flour (2 cups)
 - Whole-Wheat flour (2 cups)
 - Oat/Rice Flour (1 cup)
-- Gluten (1/4 cups)
-  - Optional, improves air pocket formation (fluff) and adds protein
 - Lemon juice and zest (3 tablespoons)
 - Dates and Plums (1/2 cups) 
 - Banana/Apple (3 Units, or applesauce)
+- Gluten (1/4 cups) and Aquafaba
+  - Options, improves air pocket formation (fluff) and adds protein
 - Nut/Seed butter (2 tablespoons)
 - Flax Meal (1 cup)
 - Baking Soda/Powder (2 teaspoons)

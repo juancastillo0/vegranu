@@ -42,7 +42,7 @@ image: /images/photos/pancakes-waffles-crepes/pancake-waffle-side-20250915.jpg
 - Use Buttermilk/Aquafaba
 - Use plenty of Baking Soda/Powder
 - Use corn/potato/cassava starch
-- Leave hydrated to aerate
+- Leave hydrated and aerate
 - Very low heat
 
 ### Waffles
@@ -50,7 +50,8 @@ image: /images/photos/pancakes-waffles-crepes/pancake-waffle-side-20250915.jpg
 - Plenty of Nut/Seed butter
 - Buttermilk/Aquafaba and Baking Soda/Powder are nice, but not necessary
 - Medium to high heat
-- In general they are my favourity since its quick and I love the toasted crust. They are also great for freezing, take them out to the waffle maker, sandwich grill or a pan for reheating
+- In general they are my favourity since it's quick and I love the toasted crust. They are also great for freezing, take them out to the waffle maker, sandwich grill or pan for reheating
+- Eat them with sweet or savory meals, like a bread
 
 ### Crepes
 
@@ -63,18 +64,18 @@ image: /images/photos/pancakes-waffles-crepes/pancake-waffle-side-20250915.jpg
 
 ## Instructions
 
-- When using dried fruits such as dates and plums, soak them in hot water for 5 minutes and blend in a food processor with other liquid ingredients and spices.
-  - For whole bananas and apples, you may add them to the food processor or blender as well
-- If using Buttermilk mix the milk with an acid and stir. Leave to coagulate for 5-10 minutes
-- Mix all liquid ingredients and spices in a bowl, blender or food processor. The main liquid can be added after this step
+- If using **Buttermilk**, mix the milk with an acid and stir. Leave to coagulate for 5-10 minutes
+- **Mix** all liquid ingredients and spices in a bowl, blender or food processor. The main liquid can be added after this step
   - When using syrups, mashed bananas or applesauce, a blender or food processor is not necessary
-- Mix all solid ingredients and stir for even distribution
-- Pour the liquid ingredients into the solid ingredients, or add the solid ingredients to the blender. 
+  - When using dried fruits such as dates and plums, soak them in hot water for 5 minutes and blend
+  - For whole bananas and apples, you may add them to the food processor or blender as well
+- Mix all **solid ingredients** and stir for an even distribution
+- **Pour** the liquid ingredients into the solid ingredients, or add the solid ingredients to the blender. 
   - Add the remaining or extra liquid (water or milk/buttermilk) to obtain the desired texture
-- If using Aquafaba, mix with a powered hand mixer or blender and add to the bowl with the batter
-- Optionally leave to hydrate for some minutes outside, or in the fridge if you are leaving it for more than an hour
-- Heat and oil the cooking surface if necessary
-- Wait for the surface to heat and pour the batter
+- If using **Aquafaba**, mix with a powered hand mixer or blender and add to the bowl with the batter
+- Optionally **leave to hydrate** for some minutes outside, or in the fridge if you are leaving it for more than an hour. Very important for fluffy pancakes and string crepes.
+- Heat **cooking surface**, add oil if necessary
+- **Wait** for the surface to heat and pour the batter
 - Store in silicone bags or glass/metal containers, great for freezing
 - When heating use the same tool you used for cooking, a waffle maker or pan, or a sandwich grill. 
   - When heating in a microwave, add some water to prevent excessive loss of moisture 
