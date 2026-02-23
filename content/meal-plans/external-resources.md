@@ -8,6 +8,12 @@
 - Nutrition Made Simple https://youtube.com/@NutritionMadeSimple
 - Viva Longevity https://www.youtube.com/@Viva-Longevity
 - Dr. Matthew Nagra https://www.youtube.com/@dr.matthewnagra
+- Buenas Migas Podcast https://www.youtube.com/@BuenasmigasPodcast
+- Ariadna Jordà https://www.youtube.com/@ariadnajorda
+- Dr Brad Stanfield https://www.youtube.com/@DrBradStanfield
+- Mic the Vegan https://www.youtube.com/@MictheVegan
+- Drs. Dean and Ayesha Sherzai | The Brain Docs https://www.youtube.com/@TheBrainDocs
+- Nutrition Facts Org https://www.youtube.com/@NutritionFactsOrg
 
 ## Cooking Youtube Channels
 - The Whole Food Plant Based Cooking Show https://www.youtube.com/@wholefoodplantbasedcookingshow
@@ -16,3 +22,5 @@
 - Simnett Nutrition https://www.youtube.com/channel/UCpyhJZhJQWKDdJCR07jPY-Q
 - The Happy Pear https://www.youtube.com/channel/UCr1PC384fLPw5PxyXecQDTw
 - Rainbow Plant Life https://www.youtube.com/@RainbowPlantLife
+- Andrew Bernard | The Nard Dog Cooks https://www.youtube.com/@thenarddogcooks
+- Earthy Goodness Kitchen https://www.youtube.com/@EarthyGoodnessKitchen

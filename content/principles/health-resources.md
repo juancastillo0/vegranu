@@ -1,4 +1,3 @@
-
 # Nutrition Books
 
 - The Proof is in the Plants: How science shows a plant-based diet could save your life (and the planet), by Simon Hill (https://theproof.com/book/)
@@ -6,16 +5,18 @@
 - The Plant-Based Diet Revolution: 28 Days to a Happier Gut and a Healthier You, by Dr Alan Desmond (https://www.alandesmond.com/revolution)
 - Fiber Fueled: The Plant-Based Gut Health Program for Losing Weight, Restoring Your Health, And Optimizing Your Microbiome, by Dr Will Bulsiewicz (https://theplantfedgut.com/book/)
 
-
 # Web Resources
 
 - Red Pen Reviews (https://www.redpenreviews.org/reviews/)
 - Nutrition Facts (https://nutritionfacts.org/)
 - Canada Food Guide (https://food-guide.canada.ca/en/tips-for-healthy-eating/)
 
-
 # Vegan Guides
 
 - [Vegan Society](https://www.vegansociety.com/resources/nutrition-and-health/nutrition-overview-0)
 - https://veganhealth.org/
-- 
+- [Physicians Committee for Responsible Medicine (PCRM)](https://www.pcrm.org/veganstarterkit)
+
+# General Data
+
+- Our World in Data (https://ourworldindata.org/causes-of-death)
