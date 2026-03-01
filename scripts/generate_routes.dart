@@ -47,5 +47,5 @@ const dirPhotos = {
 ${dirToPhotos.entries.map((e) => '"${e.key}": ["${e.value.join('", "')}"],').join('\n')}
 };
 ''');
-  await Process.run('fvm', ['dart', 'format', 'lib/routes_map.dart']);
+  await Process.run('dart', ['format', 'lib/routes_map.dart']);
 }
