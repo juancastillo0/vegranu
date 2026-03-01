@@ -28,7 +28,7 @@ image: /images/photos/cheesecakes/cheesecake-oven-20241107.jpg
 
 ![](/images/photos/baked-snacks/baked-apple-20240114.jpg)
 
-## Ice Cream and Popsicles
+## Ice Cream and Ice Pops
 
 ## Cheesecake
 

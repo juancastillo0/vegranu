@@ -18,3 +18,5 @@ image: /images/photos/pasta/pasta-pan-20240303.jpg
 - Texture (Dry/Moist/Risotto)
 - Sauces
 - Herbs (Basil)
+
+## Stir Fry & Scrambled Tofu/Chickpea

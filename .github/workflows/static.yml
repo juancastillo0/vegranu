@@ -37,6 +37,7 @@ jobs:
         uses: dart-lang/setup-dart@v1
       - name: 'Setup Flutter'
         uses: subosito/flutter-action@v2
+      - run: dart run scripts/generate_routes.dart
       - name: 'Build Jaspr'
         run: |
           dart pub global activate jaspr_cli

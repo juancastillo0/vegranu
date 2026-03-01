@@ -26,3 +26,39 @@ M N Erlich, D Ghidanac, S Blanco Mejia, T A Khan, L Chiavaroli, A Zurbau, S Ayou
 
 BMC Med. 2024 Aug 22. doi: 10.1186/s12916-024-03524-7 PMCID: PMC11340166  PMID: 39169353
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11340166/
+
+### Vegetarian Dietary Patterns for Adults: A Position Paper of the Academy of Nutrition and Dietetics
+
+https://www.jandonline.org/article/S2212-2672(25)00042-5/fulltext
+
+### The total antioxidant content of more than 3100 foods, beverages, spices, herbs and supplements used worldwide
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2841576/
+
+### Low-density lipoproteins cause atherosclerotic cardiovascular disease. 1. Evidence from genetic, epidemiologic, and clinical studies. A consensus statement from the European Atherosclerosis Society Consensus Panel
+
+https://pubmed.ncbi.nlm.nih.gov/28444290/
+
+### Global Burden of Alzheimer's disease and other dementias in adults aged 65 years and older, 1991–2021: population-based study
+
+https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1585711/full
+
+### Reducing food’s environmental impacts through producers and consumers
+
+https://www.science.org/doi/10.1126/science.aaq0216
+
+### Dietary change in high-income nations alone can lead to substantial double climate dividend
+
+https://www.nature.com/articles/s43016-021-00431-5
+
+### Coffee and Tea Intake, Dementia Risk, and Cognitive Function
+
+https://jamanetwork.com/journals/jama/article-abstract/2844764
+
+### Association of Coffee, Decaffeinated Coffee and Caffeine Intake from Coffee with Cognitive Performance in Older Adults: National Health and Nutrition Examination Survey (NHANES) 2011–2014.
+
+https://www.mdpi.com/2072-6643/12/3/840
+
+### Optimal dietary patterns for healthy aging
+
+https://pubmed.ncbi.nlm.nih.gov/40128348/
