@@ -1,9 +1,8 @@
-
 ## General Data
 
 - https://ourworldindata.org/grapher/number-of-deaths-by-risk-factor
 - https://ourworldindata.org/causes-of-death
-- 
+-
 
 ## Nutrition Scientific Articles
 
@@ -12,19 +11,20 @@
 Monica H Carlsen, Bente L Halvorsen, Kari Holte, Siv K Bøhn, Steinar Dragland, Laura Sampson, Carol Willey, Haruki Senoo, Yuko Umezono, Chiho Sanada, Ingrid Barikmo, Nega Berhe, Walter C Willett, Katherine M Phillips, David R Jacobs Jr, Rune Blomhoff
 
 Nutr J. 2010 Jan 22;9:3. doi: 10.1186/1475-2891-9-3
-PMCID: PMC2841576  PMID: 20096093
+PMCID: PMC2841576 PMID: 20096093
 
 ### Association Between Plant and Animal Protein Intake and Overall and Cause-Specific Mortality
+
 Jiaqi Huang, Linda M Liao, Stephanie J Weinstein, Rashmi Sinha, Barry I Graubard, Demetrius Albanes
 
-JAMA Intern Med. 2020 Jul 13;180(9):1–12. doi: 10.1001/jamainternmed.2020.2790 PMCID: PMC7358979  PMID: 32658243 
+JAMA Intern Med. 2020 Jul 13;180(9):1–12. doi: 10.1001/jamainternmed.2020.2790 PMCID: PMC7358979 PMID: 32658243
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7358979/
 
-
 ### A systematic review and meta-analysis of randomized trials of substituting soymilk for cow’s milk and intermediate cardiometabolic outcomes: understanding the impact of dairy alternatives in the transition to plant-based diets on cardiometabolic health
+
 M N Erlich, D Ghidanac, S Blanco Mejia, T A Khan, L Chiavaroli, A Zurbau, S Ayoub-Charette, A Almneni, M Messina, L A Leiter,6,7, R P Bazinet, D J A Jenkins, C W C Kendall, J L Sievenpiper
 
-BMC Med. 2024 Aug 22. doi: 10.1186/s12916-024-03524-7 PMCID: PMC11340166  PMID: 39169353
+BMC Med. 2024 Aug 22. doi: 10.1186/s12916-024-03524-7 PMCID: PMC11340166 PMID: 39169353
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11340166/
 
 ### Vegetarian Dietary Patterns for Adults: A Position Paper of the Academy of Nutrition and Dietetics
@@ -62,3 +62,37 @@ https://www.mdpi.com/2072-6643/12/3/840
 ### Optimal dietary patterns for healthy aging
 
 https://pubmed.ncbi.nlm.nih.gov/40128348/
+
+### Habitual coffee consumption and risk of cognitive decline/dementia: A systematic review and meta-analysis of prospective cohort studies
+
+### Habitual coffee consumption and risk of type 2 diabetes, ischemic heart disease, depression and Alzheimer’s disease: a Mendelian randomization study
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5109212/
+
+### Habitual coffee consumption and cognitive function: a Mendelian randomization meta-analysis in up to 415,530 participants
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5951917/
+
+### Meat vs EAT-Lancet: The dynamics of an industry-orchestrated online backlash to the planetary health diet, and what it means today
+
+https://changingmarkets.org/report/meat-vs-eat-lancet-the-dynamics-of-an-industry-orchestrated-online-backlash/
+
+### Planetary Health Diet Index and risk of total and cause-specific mortality in three prospective cohorts
+
+https://pubmed.ncbi.nlm.nih.gov/38960579/
+
+### Global Burden of Disease Study 2023
+
+https://ghdx.healthdata.org/gbd-2023
+
+### Burden of 375 diseases and injuries, risk-attributable burden of 88 risk factors, and healthy life expectancy in 204 countries and territories, including 660 subnational locations, 1990–2023: a systematic analysis for the Global Burden of Disease Study 2023
+
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01637-X/fulltext
+
+### Global burden of 292 causes of death in 204 countries and territories and 660 subnational locations, 1990–2023: a systematic analysis for the Global Burden of Disease Study 2023
+
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01917-8/fulltext
+
+### Global age-sex-specific all-cause mortality and life expectancy estimates for 204 countries and territories and 660 subnational locations, 1950–2023: a demographic analysis for the Global Burden of Disease Study 2023
+
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01330-3/fulltext
