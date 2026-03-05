@@ -20,8 +20,7 @@ const routesMap = {
     "sleep",
     "social_support",
     "strength_excercise",
-    "stress",
-    "support"
+    "stress"
   ],
   "ingredients": [
     "bread",
