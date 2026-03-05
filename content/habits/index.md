@@ -1,3 +1,4 @@
+---
 title: Health Habits
 description: Collection of habits for a healthier life.
 ---
