@@ -96,3 +96,15 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01917-8/fullt
 ### Global age-sex-specific all-cause mortality and life expectancy estimates for 204 countries and territories and 660 subnational locations, 1950–2023: a demographic analysis for the Global Burden of Disease Study 2023
 
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01330-3/fulltext
+
+### The BROAD study: A randomised controlled trial using a whole food plant-based diet in the community for obesity, ischaemic heart disease or diabetes
+
+https://pubmed.ncbi.nlm.nih.gov/28319109/
+
+### Epidemiology of sarcopenia: Prevalence, risk factors, and consequences
+
+https://www.metabolismjournal.com/article/S0026-0495(23)00136-1/fulltext
+
+### Many diets for many people: planetary health diets and their health and environmental impacts at global, regional, national, and demographic levels
+
+https://www.researchsquare.com/article/rs-6474232/v1
