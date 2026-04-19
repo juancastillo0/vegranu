@@ -1,7 +1,8 @@
-// The entrypoint for the **server** environment.
-//
-// The [main] method will only be executed on the server during pre-rendering.
-// To run code on the client, use the @client annotation.
+/// The entrypoint for the **server** environment.
+///
+/// The [main] method will only be executed on the server during pre-rendering.
+/// To run code on the client, check the `main.client.dart` file.
+library;
 
 // Server-specific jaspr import.
 import 'package:jaspr/dom.dart';
@@ -21,16 +22,12 @@ import 'package:vegranu/components/gallery.dart';
 import 'package:vegranu/components/sidebar.dart';
 import 'package:vegranu/routes_map.dart';
 
-import 'components/clicker.dart';
-
 // This file is generated automatically by Jaspr, do not remove or edit.
 import 'main.server.options.dart';
 
 void main() {
   // Initializes the server environment with the generated default options.
-  Jaspr.initializeApp(
-    options: defaultServerOptions,
-  );
+  Jaspr.initializeApp(options: defaultServerOptions);
 
   // Starts the app.
   //
@@ -38,11 +35,7 @@ void main() {
   // your markdown files in the content/ directory to a beautiful documentation site.
   runApp(
     Document(
-      head: [
-        // Links to the compiled `web/main.dart` file.
-        script(src: 'main.dart.js'),
-        link(rel: "stylesheet", href: "/stylesheet.css"),
-      ],
+      head: [link(rel: "stylesheet", href: "/stylesheet.css")],
       // Pre-renders the [App] component inside the <body> tag
       body: App(),
     ),
@@ -55,9 +48,7 @@ class App extends StatelessComponent {
     return ContentApp(
       // Enables mustache templating inside the markdown files.
       templateEngine: MustacheTemplateEngine(),
-      parsers: [
-        MarkdownParser(),
-      ],
+      parsers: [MarkdownParser()],
       extensions: [
         // Adds heading anchors to each heading.
         HeadingAnchorsExtension(),
@@ -69,16 +60,10 @@ class App extends StatelessComponent {
         Callout(),
         // Adds syntax highlighting to code blocks.
         CodeBlock(),
-        // Adds a custom Jaspr component to be used as <Clicker/> in markdown.
-        CustomComponent(
-          pattern: 'Clicker',
-          builder: (_, __, ___) => Clicker(),
-        ),
         CustomComponent(
           pattern: 'Gallery',
-          builder: (_, attributes, ___) => Gallery(
-            directory: attributes['directory'] ?? '',
-          ),
+          builder: (_, attributes, ___) =>
+              Gallery(directory: attributes['directory'] ?? ''),
         ),
         // Adds zooming and caption support to images.
         Image(zoom: true),
@@ -98,16 +83,17 @@ class App extends StatelessComponent {
             ],
           ),
           sidebar: AppSidebar(),
+          footer: AppFooter(),
         ),
       ],
       theme: ContentTheme(
         // Customizes the default theme colors.
         primary: ThemeColor(ThemeColors.blue.$500, dark: ThemeColors.blue.$300),
-        background:
-            ThemeColor(ThemeColors.slate.$50, dark: ThemeColors.zinc.$950),
-        colors: [
-          ContentColors.quoteBorders.apply(ThemeColors.blue.$400),
-        ],
+        background: ThemeColor(
+          ThemeColors.slate.$50,
+          dark: ThemeColors.zinc.$950,
+        ),
+        colors: [ContentColors.quoteBorders.apply(ThemeColors.blue.$400)],
       ),
     );
   }
@@ -168,42 +154,69 @@ class AppSidebar extends StatelessComponent {
       // ]);
     }
 
-    return Sidebar(groups: [
-      // Adds navigation links to the sidebar.
-      SidebarGroup(links: [SidebarLink(text: 'Overview', href: '/')]),
-      if (nestedLinks.isNotEmpty)
+    return Sidebar(
+      groups: [
+        // Adds navigation links to the sidebar.
         SidebarGroup(
-          title: routeTitles[firstRoutePath] ?? 'Group',
-          links: nestedLinks,
+          links: [SidebarLink(text: 'Overview', href: '/')],
         ),
-      SidebarGroup(title: 'Content', links: [
-        ...routeTitles.entries.map(
-          (e) => SidebarLink(
-            text: e.value,
-            href: '/${e.key}',
-            icon: itemsWithIcons.contains(e.key)
-                ? '/images/page-icons/${e.key}.png'
-                : null,
+        if (nestedLinks.isNotEmpty)
+          SidebarGroup(
+            title: routeTitles[firstRoutePath] ?? 'Group',
+            links: nestedLinks,
           ),
+        SidebarGroup(
+          title: 'Content',
+          links: [
+            ...routeTitles.entries.map(
+              (e) => SidebarLink(
+                text: e.value,
+                href: '/${e.key}',
+                icon: itemsWithIcons.contains(e.key)
+                    ? '/images/page-icons/${e.key}.png'
+                    : null,
+              ),
+            ),
+          ],
+        ),
+      ],
+    );
+  }
+}
+
+class AppFooter extends StatelessComponent {
+  @override
+  Component build(BuildContext context) {
+    final newIssueUrl = Uri.https(
+      'github.com',
+      'juancastillo0/vegranu/issues/new',
+      {
+        'title': 'Improve ${context.page.path}',
+        'body': '',
+        'template': 'page-request.md',
+        // 'labels': 'page-request',
+      },
+    );
+    return footer([
+      div(classes: 'button-container', [
+        a(href: newIssueUrl.toString(), [
+          button([Component.text('Describe an Issue')]),
+        ]),
+        a(
+          href:
+              'https://github.com/juancastillo0/vegranu/blob/main/content/${context.page.path}',
+          [
+            button([Component.text('View on Github')]),
+          ],
         ),
       ]),
+      Component.text(
+        'All content in this website is Open Source and Crowd Sourced. You can suggest changes or improvements.',
+      ),
     ]);
   }
 }
 
-enum Taste {
-  savory,
-  sweet,
-  acid,
-  umami,
-}
+enum Taste { savory, sweet, acid, umami }
 
-enum FoodType {
-  auxiliary,
-  snack,
-  side,
-  drink,
-  breakfast,
-  lunch,
-  dinner,
-}
+enum FoodType { auxiliary, snack, side, drink, breakfast, lunch, dinner }

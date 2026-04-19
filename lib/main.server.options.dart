@@ -16,7 +16,6 @@ import 'package:jaspr_content/components/image.dart' as _image;
 import 'package:jaspr_content/components/sidebar_toggle_button.dart'
     as _sidebar_toggle_button;
 import 'package:jaspr_content/components/theme_toggle.dart' as _theme_toggle;
-import 'package:vegranu/components/clicker.dart' as _clicker;
 import 'package:vegranu/components/gallery.dart' as _gallery;
 
 /// Default [ServerOptions] for use with your Jaspr project.
@@ -57,20 +56,18 @@ ServerOptions get defaultServerOptions => ServerOptions(
     _theme_toggle.ThemeToggle: ClientTarget<_theme_toggle.ThemeToggle>(
       'jaspr_content:theme_toggle',
     ),
-    _clicker.Clicker: ClientTarget<_clicker.Clicker>('clicker'),
     _gallery.Gallery: ClientTarget<_gallery.Gallery>(
       'gallery',
       params: __galleryGallery,
     ),
   },
   styles: () => [
-    ..._zoomable_image.ZoomableImage.styles,
     ..._callout.Callout.styles,
     ..._code_block.CodeBlock.styles,
     ..._github_button.GitHubButton.styles,
     ..._image.Image.styles,
     ..._theme_toggle.ThemeToggleState.styles,
-    ..._clicker.ClickerState.styles,
+    ..._zoomable_image.ZoomableImage.styles,
     ..._gallery.GalleryState.styles,
   ],
 );

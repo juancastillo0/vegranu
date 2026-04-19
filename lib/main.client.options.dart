@@ -16,7 +16,6 @@ import 'package:jaspr_content/components/sidebar_toggle_button.dart'
     deferred as _sidebar_toggle_button;
 import 'package:jaspr_content/components/theme_toggle.dart'
     deferred as _theme_toggle;
-import 'package:vegranu/components/clicker.dart' deferred as _clicker;
 import 'package:vegranu/components/gallery.dart' deferred as _gallery;
 
 /// Default [ClientOptions] for use with your Jaspr project.
@@ -60,10 +59,6 @@ ClientOptions get defaultClientOptions => ClientOptions(
     'jaspr_content:theme_toggle': ClientLoader(
       (p) => _theme_toggle.ThemeToggle(),
       loader: _theme_toggle.loadLibrary,
-    ),
-    'clicker': ClientLoader(
-      (p) => _clicker.Clicker(),
-      loader: _clicker.loadLibrary,
     ),
     'gallery': ClientLoader(
       (p) => _gallery.Gallery(

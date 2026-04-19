@@ -1,6 +1,8 @@
-// The entrypoint for the **client** environment.
-//
-// The [main] method will only be executed on the client after loading the page.
+/// The entrypoint for the **client** environment.
+///
+/// The [main] method will only be executed on the client when loading the page.
+/// To run code on the server during pre-rendering, check the `main.server.dart` file.
+library;
 
 // Client-specific Jaspr import.
 import 'package:jaspr/client.dart';
@@ -18,7 +20,7 @@ void main() {
   //
   // [ClientApp] automatically loads and renders all components annotated with @client.
   //
-  // You can wrap this with additional [InheritedComponent]s to share state across multiple 
+  // You can wrap this with additional [InheritedComponent]s to share state across multiple
   // @client components if needed.
   runApp(
     const ClientApp(),
